@@ -1,0 +1,28 @@
+	Antenna01 [28 polys, 32 verts] '07 - Default'
+	Box01 [12 polys, 24 verts] '07 - Default'
+	Antenna02 [28 polys, 32 verts] '07 - Default'
+	Attacco01 [40 polys, 58 verts] '07 - Default'
+	Scaricatore01 [108 polys, 72 verts] '07 - Default'
+	Pod01 [216 polys, 152 verts] '07 - Default'
+	Antenna03 [28 polys, 32 verts] '07 - Default'
+	Box02 [12 polys, 24 verts] '07 - Default'
+	Antenna04 [28 polys, 32 verts] '07 - Default'
+	Attacco02 [40 polys, 58 verts] '07 - Default'
+	Scaricatore02 [108 polys, 72 verts] '07 - Default'
+	Pod02 [216 polys, 152 verts] '07 - Default'
+
+
+Num Nodes: 12
+Total:    (864 polys, 740 verts)
+Mesh Max: (216 polys, 152 verts)
+
+1 Materials:
+ (  1) 07 - Default:
+       SPO-3_pod.bmp
+
+1 Textures:
+SPO-3_pod.bmp
+
+Points
+
+Extents

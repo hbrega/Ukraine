@@ -1,0 +1,21 @@
+	Body [836 polys, 632 verts] '03 - Default'
+		Wing1 [28 polys, 40 verts] '03 - Default'
+		Wing2 [28 polys, 40 verts] '03 - Default'
+		lug02 [92 polys, 110 verts] '03 - Default'
+		lug01 [92 polys, 110 verts] '03 - Default'
+
+
+Num Nodes: 5
+Total:    (1076 polys, 932 verts)
+Mesh Max: (836 polys, 632 verts)
+
+1 Materials:
+ (  1) 03 - Default:
+       RBK-500 SPBE-D.bmp
+
+1 Textures:
+RBK-500 SPBE-D.bmp
+
+Points
+
+Extents

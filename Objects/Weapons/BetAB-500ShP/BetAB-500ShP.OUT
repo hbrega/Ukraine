@@ -1,0 +1,25 @@
+	Body [756 polys, 583 verts] 'm'
+		Chute [421 polys, 1263 verts (animated)] 'm_ns', AnimationID: 1 
+		lug1 [92 polys, 110 verts] 'm'
+		lug2 [92 polys, 110 verts] 'm'
+		Stab [36 polys, 50 verts] 'm'
+		Stab2 [36 polys, 50 verts] 'm'
+		Nozzles [576 polys, 640 verts] 'm_ns'
+
+
+Num Nodes: 7
+Total:    (2009 polys, 2806 verts)
+Mesh Max: (756 polys, 1263 verts)
+
+2 Materials:
+ (  1) m:
+       BETAB-500ShP.bmp
+ (  2) m_ns:
+       BETAB-500ShP.bmp
+
+1 Textures:
+BETAB-500ShP.bmp
+
+Points
+
+Extents

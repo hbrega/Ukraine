@@ -1,0 +1,19 @@
+
+Cargo ship  (SF-1 gen)  by BANIDOS Team
+
+3D Model:SUICIDAL
+
+Skins: TORNO
+
+
+	
+to use this model you only have to release the contents of the 
+GroundObject folder inside the folder the same name in your game.... 
+
+
+-This Model is FREEWARE only. Feel free to use this mod for any
+ future projects as long as proper credit is given
+
+
+BANIDOS TEAM 
+

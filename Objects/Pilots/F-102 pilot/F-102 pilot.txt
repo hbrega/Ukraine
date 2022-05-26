@@ -1,0 +1,3 @@
+[LOD001]
+Filename=F-102 pilot.LOD
+Distance=200

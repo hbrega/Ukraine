@@ -1,0 +1,7 @@
+[WeaponData]
+ObjectFullName=Kh-22A Burya Cruise Missile
+ObjectDataFile=Kh-22A_data.ini
+
+[LOD001]
+Filename=as4.lod
+Distance=2000

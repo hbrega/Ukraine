@@ -1,0 +1,21 @@
+	Body [756 polys, 708 verts] '04 - Default'
+		VDV_fuze [152 polys, 217 verts] '04 - Default'
+		lug01 [92 polys, 110 verts] '04 - Default'
+		ring [176 polys, 184 verts] '04 - Default'
+		Fins [128 polys, 220 verts] '04 - Default'
+
+
+Num Nodes: 5
+Total:    (1304 polys, 1439 verts)
+Mesh Max: (756 polys, 708 verts)
+
+1 Materials:
+ (  1) 04 - Default:
+       RBK-100-AO-1.bmp
+
+1 Textures:
+RBK-100-AO-1.bmp
+
+Points
+
+Extents

@@ -1,0 +1,24 @@
+	Object04 (644 polys, 1932 verts) '01 - Default'
+		Ellipse01 (108 polys, 324 verts) '01 - Default'
+		Object01 (36 polys, 108 verts) '01 - Default'
+		Object08 (36 polys, 108 verts) '01 - Default'
+		Enjine01 (351 polys, 1053 verts) '01 - Default'
+		Ellipse02 (108 polys, 324 verts) '01 - Default'
+		Object2502 (28 polys, 84 verts) '01 - Default'
+			Object2503 (36 polys, 108 verts) '01 - Default'
+		Object2504 (28 polys, 84 verts) '01 - Default'
+			Object2505 (36 polys, 108 verts) '01 - Default'
+		Object0201 (28 polys, 84 verts) '01 - Default'
+			Object05 (36 polys, 108 verts) '01 - Default'
+
+
+Num Nodes: 12
+Total:    (1475 polys, 4425 verts)
+Mesh Max: (644 polys, 1932 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       KH-65.bmp
+
+1 Textures:
+KH-65.bmp

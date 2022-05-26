@@ -1,0 +1,7 @@
+[WeaponData]
+ObjectFullName=Kh-15 Nuclear Cruise Missile
+ObjectDataFile=Kh-15_data.ini
+
+[LOD001]
+Filename=kh-15.lod
+Distance=2000

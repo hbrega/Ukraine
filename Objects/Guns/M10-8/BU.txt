@@ -1,0 +1,10 @@
+[FlameThrowerEffects]
+TracerEmitterName=
+GroundHitEffectName=MediumOilFire
+GroundHitSoundName=Napalm.wav
+WaterHitEffectName=MediumOilFire
+WaterHitSoundName=
+ObjectHitEffectName=NapalmExplosionEffect
+ObjectHitSoundName=Napalm.wav
+ArmorHitEffectName=NapalmExplosionEffect
+ArmorHitSoundName=Napalm.wav

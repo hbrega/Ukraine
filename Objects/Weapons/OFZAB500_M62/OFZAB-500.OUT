@@ -1,0 +1,21 @@
+	Stab [324 polys, 972 verts (decal)] '12 - Default'
+	Bomb [680 polys, 2040 verts (decal)] '12 - Default'
+	Mount2 [352 polys, 1056 verts (decal)] '12 - Default'
+	Mount1 [352 polys, 1056 verts (decal)] '12 - Default'
+	Fuze [120 polys, 360 verts (decal)] '12 - Default'
+
+
+Num Nodes: 5
+Total:    (1828 polys, 5484 verts)
+Mesh Max: (680 polys, 2040 verts)
+
+1 Materials:
+ (  1) 12 - Default:
+       fab500-m62.bmp
+
+1 Textures:
+fab500-m62.bmp
+
+Points
+
+Extents

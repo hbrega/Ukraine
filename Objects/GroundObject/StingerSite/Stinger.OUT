@@ -1,0 +1,14 @@
+	Missile (48 polys, 144 verts) '3 - Default'
+		ControlSurf1 (2 polys, 6 verts) '3 - Default'
+		ControlSurf2 (2 polys, 6 verts) '3 - Default'
+		ControlSurf3 (2 polys, 6 verts) '3 - Default'
+		ControlSurf04 (2 polys, 6 verts) '3 - Default'
+		TailFin02 (2 polys, 6 verts) '3 - Default'
+		TailFin03 (2 polys, 6 verts) '3 - Default'
+		TailFin04 (2 polys, 6 verts) '3 - Default'
+		TailFin01 (2 polys, 6 verts) '3 - Default'
+		Booster (24 polys, 72 verts) '3 - Default'
+
+
+Total:    (88 polys, 264 verts)
+Mesh Max: (48 polys, 144 verts)

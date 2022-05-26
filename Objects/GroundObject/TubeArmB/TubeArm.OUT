@@ -1,0 +1,21 @@
+	turret (156 polys, 468 verts) 'Material #110'
+	chasis (944 polys, 2832 verts) 'Material #86'
+	tracks (170 polys, 510 verts) 'Material #87'
+
+
+Num Nodes: 3
+Total:    (1270 polys, 3810 verts)
+Mesh Max: (944 polys, 2832 verts)
+
+3 Materials:
+ (  1) Material #110:
+       S-300-2.bmp
+ (  2) Material #86:
+       Chassis.bmp
+ (  3) Material #87:
+       Turret.bmp
+
+3 Textures:
+S-300-2.bmp
+Chassis.bmp
+Turret.bmp

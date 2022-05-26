@@ -1,0 +1,55 @@
+	Dart01 (96 polys, 288 verts) '01 - SKin'
+		Front_Fin (12 polys, 36 verts) '01 - SKin'
+		Rear_Fin (12 polys, 36 verts) '01 - SKin'
+		Rear_Fin01 (12 polys, 36 verts) '01 - SKin'
+		Front_Fin01 (12 polys, 36 verts) '01 - SKin'
+		Rear_Fin02 (12 polys, 36 verts) '01 - SKin'
+		Front_Fin02 (12 polys, 36 verts) '01 - SKin'
+		Rear_Fin03 (12 polys, 36 verts) '01 - SKin'
+		Front_Fin03 (12 polys, 36 verts) '01 - SKin'
+		Booster (144 polys, 432 verts) '01 - SKin'
+			Booster_Front (144 polys, 432 verts) '02 - Chrome'
+			Dart_holder (72 polys, 216 verts) '01 - SKin'
+				Dart_Fixation (48 polys, 144 verts) '01 - SKin'
+			Booster_Sabot01 (48 polys, 144 verts) '01 - SKin'
+			Booster_Fin (12 polys, 36 verts) '01 - SKin'
+			Booster_Sabot (48 polys, 144 verts) '01 - SKin'
+			Booster_Fin01 (12 polys, 36 verts) '01 - SKin'
+			Booster_Fin02 (12 polys, 36 verts) '01 - SKin'
+			Booster_Fin03 (12 polys, 36 verts) '01 - SKin'
+			Ejector_Cartridge (216 polys, 648 verts) '01 - SKin'
+				Ejector_Cartridge_Sabot (144 polys, 432 verts) '03 - Bronze'
+		Dart02 (96 polys, 288 verts) '01 - SKin'
+			Front_Fin04 (12 polys, 36 verts) '01 - SKin'
+			Front_Fin05 (12 polys, 36 verts) '01 - SKin'
+			Front_Fin06 (12 polys, 36 verts) '01 - SKin'
+			Front_Fin07 (12 polys, 36 verts) '01 - SKin'
+			Rear_Fin04 (12 polys, 36 verts) '01 - SKin'
+			Rear_Fin05 (12 polys, 36 verts) '01 - SKin'
+			Rear_Fin06 (12 polys, 36 verts) '01 - SKin'
+			Rear_Fin07 (12 polys, 36 verts) '01 - SKin'
+		Dart03 (96 polys, 288 verts) '01 - SKin'
+			Front_Fin08 (12 polys, 36 verts) '01 - SKin'
+			Front_Fin09 (12 polys, 36 verts) '01 - SKin'
+			Front_Fin10 (12 polys, 36 verts) '01 - SKin'
+			Front_Fin11 (12 polys, 36 verts) '01 - SKin'
+			Rear_Fin08 (12 polys, 36 verts) '01 - SKin'
+			Rear_Fin09 (12 polys, 36 verts) '01 - SKin'
+			Rear_Fin10 (12 polys, 36 verts) '01 - SKin'
+			Rear_Fin11 (12 polys, 36 verts) '01 - SKin'
+
+
+Num Nodes: 39
+Total:    (1488 polys, 4464 verts)
+Mesh Max: (216 polys, 648 verts)
+
+3 Materials:
+ (  1) 01 - SKin:
+       Starstreak.bmp
+ (  2) 02 - Chrome:
+       <No Texture>
+ (  3) 03 - Bronze:
+       <No Texture>
+
+1 Textures:
+Starstreak.bmp

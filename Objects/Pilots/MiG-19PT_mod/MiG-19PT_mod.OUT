@@ -1,0 +1,35 @@
+	RadomePM [108 polys, 86 verts] '07 - Default'
+	Pitot [20 polys, 28 verts] '02 - Default'
+	LeftGunBase [44 polys, 46 verts] '02 - Default'
+	LeftGun [60 polys, 56 verts] '02 - Default'
+	RightGunBase [44 polys, 46 verts] '02 - Default'
+	RightGun [60 polys, 56 verts] '02 - Default'
+	AuxPitot [90 polys, 88 verts] '02 - Default'
+	RotaiaExt01 [28 polys, 36 verts] '02 - Default'
+	PiloneExt01 [124 polys, 123 verts] '02 - Default'
+	PiloneExt02 [124 polys, 123 verts] '02 - Default'
+	RotaiaExt02 [28 polys, 36 verts] '02 - Default'
+	DorsalExtension [8 polys, 12 verts] '02 - Default'
+	Nose [162 polys, 126 verts] '02 - Default'
+	Splitter [32 polys, 30 verts] '02 - Default'
+	ScopeN [92 polys, 82 verts] '02 - Default'
+	T_antenna [84 polys, 84 verts] '02 - Default'
+	Dielectric [102 polys, 92 verts] '07 - Default'
+
+
+Num Nodes: 17
+Total:    (1210 polys, 1150 verts)
+Mesh Max: (162 polys, 126 verts)
+
+2 Materials:
+ (  1) 07 - Default:
+       MiG-19PT_mod.bmp
+ (  2) 02 - Default:
+       MiG-19PT_mod.bmp
+
+1 Textures:
+MiG-19PT_mod.bmp
+
+Points
+
+Extents

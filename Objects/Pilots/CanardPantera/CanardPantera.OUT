@@ -1,0 +1,21 @@
+	Box01 (360 polys, 1080 verts) 'Standard_8'
+	Capsule01 (340 polys, 1020 verts) 'Standard_8'
+	Box02 (220 polys, 660 verts) 'Standard_8'
+	Box03 (220 polys, 660 verts) 'Standard_8'
+	Box04 (108 polys, 324 verts) 'Standard_8'
+	Capsule02 (384 polys, 1152 verts) 'Standard_8'
+	Box06 (108 polys, 324 verts) 'Standard_8'
+	Box07 (108 polys, 324 verts) 'Standard_8'
+	Box05 (192 polys, 576 verts) 'Standard_8'
+
+
+Num Nodes: 9
+Total:    (2040 polys, 6120 verts)
+Mesh Max: (384 polys, 1152 verts)
+
+1 Materials:
+ (  1) Standard_8:
+       CanardPantera.bmp
+
+1 Textures:
+CanardPantera.bmp

@@ -1,0 +1,17 @@
+[WeaponData]
+ObjectFullName=R-77P AA-12 Adder (ARM)
+ObjectDataFile=AA-12P_data.INI
+
+[LOD001]
+Filename=R77M.lod
+Distance=50
+
+[LOD002]
+Filename=R77M_lod001.lod
+Distance=1000
+
+[Shadow]
+CastShadow=TRUE
+ShadowCastDist=2000
+MaxVisibleDistance=100
+

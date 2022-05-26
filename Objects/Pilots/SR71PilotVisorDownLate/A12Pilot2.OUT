@@ -1,0 +1,35 @@
+	CubixStudioMale [1148 polys, 648 verts] 'Material #2'
+		Head [848 polys, 547 verts] 'Material #4'
+		Quader02 [348 polys, 324 verts] 'Material #4'
+		Kugel01 [1126 polys, 1109 verts] 'Material #4'
+		Kugel02 [158 polys, 104 verts] 'Material #3'
+		Zylinder01 [72 polys, 80 verts] 'Material #4'
+		Quader01 [456 polys, 484 verts] 'Material #4'
+		Zylinder02 [112 polys, 107 verts] 'Material #4'
+		Zylinder03 [126 polys, 90 verts] 'Material #4'
+		Zylinder04 [476 polys, 415 verts] 'Material #4'
+		Zylinder06 [144 polys, 158 verts] 'Material #4'
+	Quader04 [164 polys, 176 verts] 'Material #4'
+	Objekt01 [158 polys, 104 verts] 'Material #3'
+
+
+Num Nodes: 13
+Total:    (5336 polys, 4346 verts)
+Mesh Max: (1148 polys, 1109 verts)
+
+3 Materials:
+ (  1) Material #2:
+       A12Pilot.bmp
+ (  2) Material #4:
+       A12Pilot.bmp
+ (  3) Material #3:
+       Transparency enabled
+       A12visor.tga
+
+2 Textures:
+A12Pilot.bmp
+A12visor.tga
+
+Points
+
+Extents

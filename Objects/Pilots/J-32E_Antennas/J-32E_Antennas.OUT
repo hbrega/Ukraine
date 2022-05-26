@@ -1,0 +1,23 @@
+	Cylinder01 [146 polys, 118 verts] '01 - Default'
+		Cylinder02 [146 polys, 118 verts] '01 - Default'
+		Cylinder03 [146 polys, 118 verts] '01 - Default'
+		Cylinder05 [146 polys, 118 verts] '01 - Default'
+		Cylinder04 [146 polys, 118 verts] '01 - Default'
+		Cylinder06 [146 polys, 118 verts] '01 - Default'
+
+
+Num Nodes: 6
+Total:    (876 polys, 708 verts)
+Mesh Max: (146 polys, 118 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       Specular=0.25, Glossiness=0.12, Color:<229,229,229>
+       J-32E_Antennas.jpg
+
+1 Textures:
+J-32E_Antennas.jpg
+
+Points
+
+Extents

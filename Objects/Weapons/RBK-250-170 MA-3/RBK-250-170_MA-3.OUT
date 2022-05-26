@@ -1,0 +1,24 @@
+	Body [708 polys, 658 verts] '04 - Default'
+		ring [176 polys, 184 verts] '04 - Default'
+		Fins [48 polys, 80 verts] '04 - Default'
+		ring2 [160 polys, 168 verts] '04 - Default'
+		lug02 [92 polys, 110 verts] '04 - Default'
+		lug03 [92 polys, 110 verts] '04 - Default'
+		lug01 [92 polys, 110 verts] '04 - Default'
+		VDV_fuze [152 polys, 217 verts] '04 - Default'
+
+
+Num Nodes: 8
+Total:    (1520 polys, 1637 verts)
+Mesh Max: (708 polys, 658 verts)
+
+1 Materials:
+ (  1) 04 - Default:
+       RBK-250-170-MA-3.bmp
+
+1 Textures:
+RBK-250-170-MA-3.bmp
+
+Points
+
+Extents

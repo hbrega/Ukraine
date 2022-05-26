@@ -1,0 +1,591 @@
+	Nose [362 polys, 651 verts] 'T-50-2'
+		Windshield [72 polys, 76 verts] 'Cockpit_Glass'
+		Canopy [592 polys, 795 verts] 'T-50-2'
+			Glass [336 polys, 212 verts] 'Cockpit_Glass'
+			Right_Mirror_Frame [178 polys, 123 verts] 'Black_Primer'
+				Right_Mirror [18 polys, 20 verts] 'Metallic_Grey_Primer'
+			Left_Mirror_Frame [178 polys, 123 verts] 'Black_Primer'
+				Left_Mirror [18 polys, 20 verts] 'Metallic_Grey_Primer'
+		Left_Side [76 polys, 178 verts] 'Matte_Panel_Green'
+			HUD_Frame [216 polys, 336 verts] 'Black_Primer'
+				HUD [52 polys, 54 verts] 'Glass'
+					HUD_Data [16 polys, 18 verts] 'Glass'
+			Stick_Base [12 polys, 24 verts] 'Matte_Panel_Green'
+				Stick_Damper [400 polys, 324 verts] 'Matte_Grey'
+					Stick_Roll [866 polys, 672 verts] 'Matte_Grey'
+						Stick [1358 polys, 1317 verts] 'Matte_Panel_Green'
+							Stick_Buttons_01 [108 polys, 111 verts] 'White_Primer'
+							Stick_Buttons_02 [132 polys, 146 verts] 'Black_Primer'
+							Stick_Rubber [236 polys, 227 verts] 'Black_Primer'
+							Stick_Buttons_03 [44 polys, 72 verts] 'Yellow_Primer'
+			Left_Small_MFD [36 polys, 60 verts] 'Black_Primer'
+				Left_Small_Screen [2 polys, 4 verts] 'Panel'
+			Wheels_Command_Base [116 polys, 130 verts] 'Black_Primer'
+				Wheels_Command [196 polys, 220 verts] 'White_Primer', AnimationID: 1 
+			Throtle [182 polys, 206 verts] 'Matte_Panel_Green'
+				Throtle_Stick [556 polys, 742 verts] 'Black_Primer'
+					Throtle_Buttons [140 polys, 170 verts] 'Metallic_Grey_Primer'
+			Pannel_Up [18 polys, 22 verts] 'Matte_Panel_Green'
+				Right_Small_MFD [36 polys, 60 verts] 'Black_Primer'
+					Right_Small_Screen [2 polys, 4 verts] 'Instrumentos'
+						ADI_Mini [26 polys, 28 verts] 'Instrumentos'
+						ADI_Roll_Mini [28 polys, 36 verts] 'Yellow_Primer'
+				Button_05 [28 polys, 50 verts] 'Black_Primer'
+				Button_06 [28 polys, 50 verts] 'Red_Light'
+				Button_07 [28 polys, 50 verts] 'Black_Primer'
+				Button_08 [28 polys, 50 verts] 'Yellow_Primer'
+				Button_09 [28 polys, 50 verts] 'Black_Primer'
+				Button_10 [28 polys, 50 verts] 'Red_Light'
+				Button_04 [28 polys, 50 verts] 'Black_Primer'
+				Click_01 [368 polys, 235 verts] 'Metallic_Grey_Primer'
+				Click_02 [368 polys, 235 verts] 'Metallic_Grey_Primer'
+				Click_03 [368 polys, 235 verts] 'Metallic_Grey_Primer'
+				Button_01 [28 polys, 50 verts] 'Red_Light'
+				Button_02 [28 polys, 50 verts] 'Green_Light'
+				Button_03 [28 polys, 50 verts] 'Black_Primer'
+				HUD_Controls [12 polys, 24 verts] 'Black_Primer'
+					OilTank01 [144 polys, 81 verts] 'Green_Primer'
+					Box59 [81 polys, 109 verts] 'Black_Primer'
+					HUD_Panel [4 polys, 8 verts] 'Panel'
+			Box57 [12 polys, 24 verts] 'Matte_Panel_Green'
+			Pedals_Base [12 polys, 24 verts] 'Matte_Panel_Green'
+				Pedals [22 polys, 41 verts] 'Matte_Grey'
+					Right_Pedal [34 polys, 56 verts] 'Matte_Grey'
+					Left_Pedal [34 polys, 56 verts] 'Matte_Grey'
+			Panel [2 polys, 4 verts] 'Matte_Panel_Green'
+				Box56 [38 polys, 64 verts] 'Black_Primer'
+					Left_MFD [2 polys, 4 verts] 'NoMap'
+					Box61 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box62 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box63 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box64 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box65 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box66 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box67 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box68 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box69 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box70 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box71 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box72 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box73 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box74 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box75 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box76 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box77 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box78 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box79 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box80 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box81 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box82 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box83 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box84 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box85 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box86 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box87 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box88 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box89 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box90 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box91 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box92 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box93 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box94 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box95 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box96 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box97 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box98 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box99 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box100 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+				Box24 [36 polys, 60 verts] 'Black_Primer'
+					Cylinder01 [240 polys, 196 verts] 'Black_Primer'
+					Cylinder04 [240 polys, 196 verts] 'ERROR: No material is assigned!'
+					Right_Blank_Screen [2 polys, 4 verts] 'Instrumentos'
+						INS [2 polys, 4 verts] 'Instrumentos'
+							RWR [2 polys, 4 verts] 'RWR'
+							Alt_Diez [5 polys, 8 verts] 'Matte_Panel_Green'
+							Alt_Cien [5 polys, 8 verts] 'Matte_Panel_Green'
+							Vel_IAS [5 polys, 8 verts] 'Matte_Panel_Green'
+							Alt_Diezmil [81 polys, 85 verts] 'Yellow_Primer'
+							Alt_Mil [4 polys, 6 verts] 'Yellow_Primer'
+							AoA [14 polys, 16 verts] 'Matte_Panel_Green'
+							VVI [5 polys, 8 verts] 'Matte_Panel_Green'
+							Gs [1 polys, 3 verts] 'Matte_Panel_Green'
+							ADI_Roll [28 polys, 36 verts] 'Yellow_Primer'
+							ADI [26 polys, 28 verts] 'Instrumentos'
+							Bola [2 polys, 4 verts] 'Instrumentos'
+							Palito [2 polys, 4 verts] 'Black_Primer'
+								Palito_Amarillo [2 polys, 4 verts] 'Yellow_Primer'
+							Alt_Frame [80 polys, 82 verts] 'Instrumentos'
+							TAS_2 [2 polys, 4 verts] 'Num_Celeste'
+							RALT_1 [2 polys, 4 verts] 'Numeros'
+							TAS_3 [2 polys, 4 verts] 'Num_Celeste'
+							TAS_4 [2 polys, 4 verts] 'Num_Celeste'
+							TAS_1 [2 polys, 4 verts] 'Num_Celeste'
+							IAS_1 [2 polys, 4 verts] 'Numeros'
+							IAS_2 [2 polys, 4 verts] 'Numeros'
+							IAS_3 [2 polys, 4 verts] 'Numeros'
+							IAS_4 [2 polys, 4 verts] 'Numeros'
+							RALT_2 [2 polys, 4 verts] 'Numeros'
+							RALT_3 [2 polys, 4 verts] 'Numeros'
+							RALT_4 [2 polys, 4 verts] 'Numeros'
+							RALT_5 [2 polys, 4 verts] 'Numeros'
+							ALT_5 [2 polys, 4 verts] 'Numeros'
+							ALT_4 [2 polys, 4 verts] 'Numeros'
+							ALT_3 [2 polys, 4 verts] 'Numeros'
+							ALT_2 [2 polys, 4 verts] 'Numeros'
+							ALT_1 [2 polys, 4 verts] 'Numeros'
+							P_4 [2 polys, 4 verts] 'Numeros'
+							P_3 [2 polys, 4 verts] 'Numeros'
+							P_2 [2 polys, 4 verts] 'Numeros'
+							P_1 [2 polys, 4 verts] 'Numeros'
+							P3_1 [2 polys, 4 verts] 'Numeros'
+							P3_2 [2 polys, 4 verts] 'Numeros'
+							P3_3 [2 polys, 4 verts] 'Numeros'
+							P3_4 [2 polys, 4 verts] 'Numeros'
+							Climb_1 [2 polys, 4 verts] 'Num_Blanco'
+							Climb_2 [2 polys, 4 verts] 'Num_Blanco'
+							Dive_2 [2 polys, 4 verts] 'Num_Blanco'
+							Dive_1 [2 polys, 4 verts] 'Num_Blanco'
+							ALT_Diez1 [2 polys, 4 verts] 'Num_Blanco'
+							ALT_Mil1 [2 polys, 4 verts] 'Num_Blanco'
+							ALT_Counter_2 [2 polys, 4 verts] 'Num_Negro'
+							ALT_Counter_1 [2 polys, 4 verts] 'Num_Negro'
+							ALT_Counter_4 [2 polys, 4 verts] 'Num_Negro'
+							ALT_Counter_3 [2 polys, 4 verts] 'Num_Negro'
+							Vel_TAS [4 polys, 7 verts] 'Yellow_Primer'
+							Crucero [14 polys, 17 verts] 'Yellow_Primer'
+							HSI_Range [7 polys, 12 verts] 'Yellow_Primer'
+							HSI_Bearing [18 polys, 26 verts] 'Matte_Panel_Green'
+							HSI_Heading [26 polys, 28 verts] 'Matte_Panel_Green'
+							HSI_Course [5 polys, 8 verts] 'Matte_Panel_Green'
+							HSI [2 polys, 4 verts] 'HSI'
+							HSI_Dev_V [2 polys, 4 verts] 'Matte_Panel_Green'
+							HSI_Dev_H [2 polys, 4 verts] 'Matte_Panel_Green'
+					Box06 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box17 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box18 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box19 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box20 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box21 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box22 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box23 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box24 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box25 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box26 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box27 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box28 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box29 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box30 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box31 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box32 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box33 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box34 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box35 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box36 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box37 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box38 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box39 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box40 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box41 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box42 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box43 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box44 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box45 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box46 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box47 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box48 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box49 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box50 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box51 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box52 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box53 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box54 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					Box55 [12 polys, 24 verts] 'ERROR: No material is assigned!'
+					MAP [2 polys, 4 verts] 'Map'
+					ChamferBox44 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox45 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox46 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox47 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox48 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox49 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox50 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox51 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox52 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox53 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox54 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox55 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox56 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox57 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox58 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox59 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox31 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox32 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox33 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox34 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox35 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox36 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox37 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox38 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox39 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox40 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox41 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox42 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox43 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox30 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox26 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox22 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox08 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox09 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox10 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox12 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox13 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox14 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox16 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox17 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox18 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+					ChamferBox11 [108 polys, 82 verts] 'ERROR: No material is assigned!'
+			Button_11 [28 polys, 50 verts] 'Green_Light'
+			Frontal_Cover [144 polys, 276 verts] 'Black_Primer'
+		Right_Side [76 polys, 178 verts] 'Matte_Panel_Green'
+			Button_12 [28 polys, 50 verts] 'Black_Primer'
+			Button_13 [28 polys, 50 verts] 'Green_Primer'
+			Button_15 [28 polys, 50 verts] 'Black_Primer'
+			Button_17 [28 polys, 50 verts] 'Black_Primer'
+			Button_18 [28 polys, 50 verts] 'Red_Light'
+			Button_16 [28 polys, 50 verts] 'Green_Primer'
+			Button_14 [28 polys, 50 verts] 'Black_Primer'
+
+
+Num Nodes: 255
+Total:    (15265 polys, 16121 verts)
+Mesh Max: (1358 polys, 1317 verts)
+
+22 Materials:
+ (  1) T-50-2:
+       Skin_02.bmp
+ (  2) Cockpit_Glass:
+       Transparency enabled
+       Canopy.tga
+ (  3) Black_Primer:
+       <No Texture>
+ (  4) Metallic_Grey_Primer:
+       Metal.bmp
+ (  5) Matte_Panel_Green:
+       <No Texture>
+ (  6) Glass:
+       Transparency enabled
+       Clear.tga
+ (  7) Matte_Grey:
+       <No Texture>
+ (  8) White_Primer:
+       <No Texture>
+ (  9) Yellow_Primer:
+       <No Texture>
+ ( 10) Panel:
+       Panel.bmp
+ ( 11) Instrumentos:
+       <No Texture>
+ ( 12) Red_Light:
+       <No Texture>
+ ( 13) Green_Light:
+       <No Texture>
+ ( 14) Green_Primer:
+       <No Texture>
+ ( 15) NoMap:
+       Transparency enabled
+       Self-illumination enabled
+       NoMap.tga
+ ( 16) RWR:
+       Transparency enabled
+       NO_RWR.tga
+ ( 17) Num_Celeste:
+       Transparency enabled
+       Self-illumination enabled
+       Num_Celeste.tga
+ ( 18) Numeros:
+       Transparency enabled
+       Self-illumination enabled
+       Num_Verde.tga
+ ( 19) Num_Blanco:
+       Transparency enabled
+       Self-illumination enabled
+       Num_Blanco.tga
+ ( 20) Num_Negro:
+       Transparency enabled
+       Self-illumination enabled
+       Num_Negro.tga
+ ( 21) HSI:
+       Transparency enabled
+       Self-illumination enabled
+       HSI.tga
+ ( 22) Map:
+       Transparency enabled
+       Self-illumination enabled
+       MAP.tga
+
+13 Textures:
+Skin_02.bmp
+Canopy.tga
+Metal.bmp
+Clear.tga
+Panel.bmp
+NoMap.tga
+NO_RWR.tga
+Num_Celeste.tga
+Num_Verde.tga
+Num_Blanco.tga
+Num_Negro.tga
+HSI.tga
+MAP.tga
+
+Points
+
+Extents
+Stick_Base
+MinExtentPosition=-0.07,0.32,-1.13
+MaxExtentPosition=0.07,0.49,-0.72
+Box57
+MinExtentPosition=-0.09,0.51,-0.72
+MaxExtentPosition=0.09,0.70,-0.59
+Pedals_Base
+MinExtentPosition=-0.09,0.51,-1.13
+MaxExtentPosition=0.09,0.95,-0.88
+Box61
+MinExtentPosition=0.07,0.59,-0.34
+MaxExtentPosition=0.09,0.60,-0.33
+Box62
+MinExtentPosition=0.02,0.59,-0.34
+MaxExtentPosition=0.04,0.60,-0.33
+Box63
+MinExtentPosition=0.05,0.59,-0.34
+MaxExtentPosition=0.06,0.60,-0.33
+Box64
+MinExtentPosition=0.10,0.59,-0.34
+MaxExtentPosition=0.11,0.60,-0.33
+Box65
+MinExtentPosition=0.12,0.59,-0.34
+MaxExtentPosition=0.14,0.60,-0.33
+Box66
+MinExtentPosition=0.15,0.59,-0.34
+MaxExtentPosition=0.16,0.60,-0.33
+Box67
+MinExtentPosition=0.17,0.59,-0.34
+MaxExtentPosition=0.19,0.60,-0.33
+Box68
+MinExtentPosition=0.20,0.59,-0.34
+MaxExtentPosition=0.21,0.60,-0.33
+Box69
+MinExtentPosition=0.22,0.59,-0.34
+MaxExtentPosition=0.24,0.60,-0.33
+Box70
+MinExtentPosition=0.25,0.59,-0.34
+MaxExtentPosition=0.26,0.60,-0.33
+Box71
+MinExtentPosition=0.27,0.59,-0.34
+MaxExtentPosition=0.29,0.60,-0.33
+Box72
+MinExtentPosition=0.30,0.59,-0.34
+MaxExtentPosition=0.31,0.60,-0.33
+Box73
+MinExtentPosition=0.02,0.53,-0.58
+MaxExtentPosition=0.04,0.54,-0.57
+Box74
+MinExtentPosition=0.05,0.53,-0.58
+MaxExtentPosition=0.06,0.54,-0.57
+Box75
+MinExtentPosition=0.07,0.53,-0.58
+MaxExtentPosition=0.09,0.54,-0.57
+Box76
+MinExtentPosition=0.10,0.53,-0.58
+MaxExtentPosition=0.11,0.54,-0.57
+Box77
+MinExtentPosition=0.12,0.53,-0.58
+MaxExtentPosition=0.14,0.54,-0.57
+Box78
+MinExtentPosition=0.15,0.53,-0.58
+MaxExtentPosition=0.16,0.54,-0.57
+Box79
+MinExtentPosition=0.17,0.53,-0.58
+MaxExtentPosition=0.19,0.54,-0.57
+Box80
+MinExtentPosition=0.20,0.53,-0.58
+MaxExtentPosition=0.21,0.54,-0.57
+Box81
+MinExtentPosition=0.22,0.53,-0.58
+MaxExtentPosition=0.24,0.54,-0.57
+Box82
+MinExtentPosition=0.25,0.53,-0.58
+MaxExtentPosition=0.26,0.54,-0.57
+Box83
+MinExtentPosition=0.27,0.53,-0.58
+MaxExtentPosition=0.29,0.54,-0.57
+Box84
+MinExtentPosition=0.30,0.53,-0.58
+MaxExtentPosition=0.31,0.54,-0.57
+Box85
+MinExtentPosition=0.00,0.59,-0.37
+MaxExtentPosition=0.01,0.60,-0.35
+Box86
+MinExtentPosition=0.00,0.58,-0.39
+MaxExtentPosition=0.01,0.59,-0.37
+Box87
+MinExtentPosition=0.00,0.57,-0.41
+MaxExtentPosition=0.01,0.58,-0.40
+Box88
+MinExtentPosition=0.00,0.57,-0.44
+MaxExtentPosition=0.01,0.58,-0.42
+Box89
+MinExtentPosition=0.00,0.56,-0.46
+MaxExtentPosition=0.01,0.57,-0.45
+Box90
+MinExtentPosition=0.00,0.55,-0.49
+MaxExtentPosition=0.01,0.56,-0.47
+Box91
+MinExtentPosition=0.00,0.55,-0.51
+MaxExtentPosition=0.01,0.56,-0.50
+Box92
+MinExtentPosition=0.00,0.54,-0.54
+MaxExtentPosition=0.01,0.55,-0.52
+Box93
+MinExtentPosition=0.32,0.59,-0.37
+MaxExtentPosition=0.33,0.60,-0.35
+Box94
+MinExtentPosition=0.32,0.58,-0.39
+MaxExtentPosition=0.33,0.59,-0.37
+Box95
+MinExtentPosition=0.32,0.57,-0.41
+MaxExtentPosition=0.33,0.58,-0.40
+Box96
+MinExtentPosition=0.32,0.57,-0.44
+MaxExtentPosition=0.33,0.58,-0.42
+Box97
+MinExtentPosition=0.32,0.56,-0.46
+MaxExtentPosition=0.33,0.57,-0.45
+Box98
+MinExtentPosition=0.32,0.55,-0.49
+MaxExtentPosition=0.33,0.56,-0.47
+Box99
+MinExtentPosition=0.32,0.55,-0.51
+MaxExtentPosition=0.33,0.56,-0.50
+Box100
+MinExtentPosition=0.32,0.54,-0.54
+MaxExtentPosition=0.33,0.55,-0.52
+Box06
+MinExtentPosition=-0.31,0.59,-0.34
+MaxExtentPosition=-0.30,0.60,-0.33
+Box17
+MinExtentPosition=-0.29,0.59,-0.34
+MaxExtentPosition=-0.27,0.60,-0.33
+Box18
+MinExtentPosition=-0.26,0.59,-0.34
+MaxExtentPosition=-0.25,0.60,-0.33
+Box19
+MinExtentPosition=-0.24,0.59,-0.34
+MaxExtentPosition=-0.22,0.60,-0.33
+Box20
+MinExtentPosition=-0.21,0.59,-0.34
+MaxExtentPosition=-0.20,0.60,-0.33
+Box21
+MinExtentPosition=-0.19,0.59,-0.34
+MaxExtentPosition=-0.17,0.60,-0.33
+Box22
+MinExtentPosition=-0.16,0.59,-0.34
+MaxExtentPosition=-0.15,0.60,-0.33
+Box23
+MinExtentPosition=-0.14,0.59,-0.34
+MaxExtentPosition=-0.12,0.60,-0.33
+Box24
+MinExtentPosition=-0.11,0.59,-0.34
+MaxExtentPosition=-0.10,0.60,-0.33
+Box25
+MinExtentPosition=-0.09,0.59,-0.34
+MaxExtentPosition=-0.07,0.60,-0.33
+Box26
+MinExtentPosition=-0.06,0.59,-0.34
+MaxExtentPosition=-0.05,0.60,-0.33
+Box27
+MinExtentPosition=-0.04,0.59,-0.34
+MaxExtentPosition=-0.02,0.60,-0.33
+Box28
+MinExtentPosition=-0.31,0.53,-0.58
+MaxExtentPosition=-0.30,0.54,-0.57
+Box29
+MinExtentPosition=-0.29,0.53,-0.58
+MaxExtentPosition=-0.27,0.54,-0.57
+Box30
+MinExtentPosition=-0.26,0.53,-0.58
+MaxExtentPosition=-0.25,0.54,-0.57
+Box31
+MinExtentPosition=-0.24,0.53,-0.58
+MaxExtentPosition=-0.22,0.54,-0.57
+Box32
+MinExtentPosition=-0.21,0.53,-0.58
+MaxExtentPosition=-0.20,0.54,-0.57
+Box33
+MinExtentPosition=-0.19,0.53,-0.58
+MaxExtentPosition=-0.17,0.54,-0.57
+Box34
+MinExtentPosition=-0.16,0.53,-0.58
+MaxExtentPosition=-0.15,0.54,-0.57
+Box35
+MinExtentPosition=-0.14,0.53,-0.58
+MaxExtentPosition=-0.12,0.54,-0.57
+Box36
+MinExtentPosition=-0.11,0.53,-0.58
+MaxExtentPosition=-0.10,0.54,-0.57
+Box37
+MinExtentPosition=-0.09,0.53,-0.58
+MaxExtentPosition=-0.07,0.54,-0.57
+Box38
+MinExtentPosition=-0.06,0.53,-0.58
+MaxExtentPosition=-0.05,0.54,-0.57
+Box39
+MinExtentPosition=-0.04,0.53,-0.58
+MaxExtentPosition=-0.02,0.54,-0.57
+Box40
+MinExtentPosition=-0.33,0.59,-0.37
+MaxExtentPosition=-0.32,0.60,-0.35
+Box41
+MinExtentPosition=-0.33,0.58,-0.39
+MaxExtentPosition=-0.32,0.59,-0.37
+Box42
+MinExtentPosition=-0.33,0.57,-0.41
+MaxExtentPosition=-0.32,0.58,-0.40
+Box43
+MinExtentPosition=-0.33,0.57,-0.44
+MaxExtentPosition=-0.32,0.58,-0.42
+Box44
+MinExtentPosition=-0.33,0.56,-0.46
+MaxExtentPosition=-0.32,0.57,-0.45
+Box45
+MinExtentPosition=-0.33,0.55,-0.49
+MaxExtentPosition=-0.32,0.56,-0.47
+Box46
+MinExtentPosition=-0.33,0.55,-0.51
+MaxExtentPosition=-0.32,0.56,-0.50
+Box47
+MinExtentPosition=-0.33,0.54,-0.54
+MaxExtentPosition=-0.32,0.55,-0.52
+Box48
+MinExtentPosition=-0.01,0.59,-0.37
+MaxExtentPosition=-0.00,0.60,-0.35
+Box49
+MinExtentPosition=-0.01,0.58,-0.39
+MaxExtentPosition=-0.00,0.59,-0.37
+Box50
+MinExtentPosition=-0.01,0.57,-0.41
+MaxExtentPosition=-0.00,0.58,-0.40
+Box51
+MinExtentPosition=-0.01,0.57,-0.44
+MaxExtentPosition=-0.00,0.58,-0.42
+Box52
+MinExtentPosition=-0.01,0.56,-0.46
+MaxExtentPosition=-0.00,0.57,-0.45
+Box53
+MinExtentPosition=-0.01,0.55,-0.49
+MaxExtentPosition=-0.00,0.56,-0.47
+Box54
+MinExtentPosition=-0.01,0.55,-0.51
+MaxExtentPosition=-0.00,0.56,-0.50
+Box55
+MinExtentPosition=-0.01,0.54,-0.54
+MaxExtentPosition=-0.00,0.55,-0.52

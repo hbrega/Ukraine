@@ -1,0 +1,17 @@
+	Base (32 polys, 96 verts) '1 - Default'
+		SandBags (140 polys, 420 verts) '2 - Default'
+		Box02 (12 polys, 36 verts) '3 - Default'
+		Box01 (12 polys, 36 verts) '3 - Default'
+		Body (327 polys, 981 verts) 'Body'
+			Head (142 polys, 426 verts) 'Body'
+				Helmet (60 polys, 180 verts) 'Body'
+				Glasses (43 polys, 129 verts) 'StingerL'
+			StingerL (363 polys, 1089 verts) 'StingerL'
+		Body1 (327 polys, 981 verts) 'Body'
+			Head1 (142 polys, 426 verts) 'Body'
+				Helmet1 (60 polys, 180 verts) 'Body'
+				Glasses1 (43 polys, 129 verts) 'StingerL'
+
+
+Total:    (1703 polys, 5109 verts)
+Mesh Max: (363 polys, 1089 verts)

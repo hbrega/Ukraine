@@ -1,0 +1,231 @@
+	Kapsula [99 polys, 297 verts (decal)] 'NewNewMaterial #8'
+		glass [356 polys, 1068 verts (decal)] 'Material #45'
+			Object03 [176 polys, 528 verts (decal)] 'Material #42'
+		cockpit [414 polys, 1242 verts (decal)] 'NewNewMaterial #6'
+			FlatHorizonNeedle [18 polys, 54 verts (decal)] 'NewNewMaterial #6'
+			Compass [2 polys, 6 verts (decal)] 'NewNewMaterial #6'
+		door_lf_ok002 [520 polys, 1560 verts (decal)] 'NewNewMaterial #7'
+			Object12 [48 polys, 144 verts (decal)] 'Material #53'
+			TopMirror [2 polys, 6 verts (decal)] 'Material #54'
+			Camara [312 polys, 936 verts (decal)] 'Material #57'
+			MiraCaja [98 polys, 294 verts (decal)] 'Material #57'
+		door_lf_ok003 [1576 polys, 4728 verts (decal)] 'NewNewMaterial #6'
+		g9m0-effect001 [1026 polys, 3078 verts (decal)] 'NewNewMaterial #7'
+		PANEL2 [1114 polys, 3342 verts (decal)] 'NewNewMaterial #6'
+			GearHandle [100 polys, 300 verts (decal)] 'NewNewMaterial #6'
+			light_AOA_limit [22 polys, 66 verts (decal)] 'NewNewMaterial #29'
+		Right panel [1069 polys, 3207 verts (decal)] 'NewNewMaterial #6'
+		Object002 [1986 polys, 5958 verts (decal)] 'NewNewMaterial #6'
+		ThrottleStick [362 polys, 1086 verts (decal)] 'NewNewMaterial #6'
+		Object004 [1688 polys, 5064 verts (decal)] 'NewNewMaterial #6'
+		Object006 [909 polys, 2727 verts (decal)] 'NewNewMaterial #6'
+			WLight1 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight1 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+			WLight2 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight2 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+			WLight3 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight3 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+			WLight4 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight4 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+			WLight5 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight5 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+			WLight6 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight6 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+			WLight7 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight7 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+			WLight8 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight8 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+			WLight9 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight9 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+			WLight10 [14 polys, 42 verts (decal)] 'NewNewMaterial #34'
+				LLight10 [14 polys, 42 verts (decal)] 'NewMaterial #0'
+		Object008 [1738 polys, 5214 verts (decal)] 'NewNewMaterial #6'
+			Plane001 [4 polys, 12 verts (decal)] 'Material #55'
+				LAW [378 polys, 1134 verts (decal)] 'Material #48'
+				LFL [378 polys, 1134 verts (decal)] 'Material #50'
+				AtG [378 polys, 1134 verts (decal)] 'Material #51'
+				Gun [378 polys, 1134 verts (decal)] 'Material #49'
+		Object009 [320 polys, 960 verts (decal)] 'NewNewMaterial #6'
+		Object010 [620 polys, 1860 verts (decal)] 'NewNewMaterial #6'
+			StickRoll [12 polys, 36 verts (decal)] 'ERROR: No material is assigned!'
+				Stick [875 polys, 2625 verts (decal)] 'NewNewMaterial #6'
+			RightRudder [10 polys, 30 verts (decal)] 'NewNewMaterial #6'
+			LeftRudder [10 polys, 30 verts (decal)] 'NewNewMaterial #6'
+		steklo [306 polys, 918 verts (decal)] 'Material #42'
+		HUDGLASS1B [84 polys, 252 verts (decal)] 'NewNewMaterial #4'
+		Object011 [420 polys, 1260 verts (decal)] 'NewNewMaterial #7'
+			MirrorBox [67 polys, 201 verts (decal)] 'Material #53', AnimationID: 1 
+			Object07 [67 polys, 201 verts (decal)] 'Material #53'
+				mirror_left [26 polys, 78 verts (decal)] 'Material #54'
+		Object013 [100 polys, 300 verts (decal)] 'NewNewMaterial #7'
+		door_lf_ok004 [242 polys, 726 verts (decal)] 'Material #45'
+		Object015 [387 polys, 1161 verts (decal)] 'NewNewMaterial #6'
+		Object018 [32 polys, 96 verts (decal)] 'NewNewMaterial #6'
+		Object019 [2 polys, 6 verts (decal)] 'NewNewMaterial #6'
+		Object020 [146 polys, 438 verts (decal)] 'NewNewMaterial #6'
+		Object022 [160 polys, 480 verts (decal)] 'NewNewMaterial #6'
+		Object023 [26 polys, 78 verts (decal)] 'NewNewMaterial #6'
+		Object024 [92 polys, 276 verts (decal)] 'NewNewMaterial #6'
+		Object025 [231 polys, 693 verts (decal)] 'NewNewMaterial #6'
+			Mach [3 polys, 9 verts (decal)] 'NewNewMaterial #6'
+		Object026 [146 polys, 438 verts (decal)] 'NewNewMaterial #6'
+		Object027 [92 polys, 276 verts (decal)] 'NewNewMaterial #6'
+		Object028 [146 polys, 438 verts (decal)] 'NewNewMaterial #6'
+		Object029 [258 polys, 774 verts (decal)] 'NewNewMaterial #6'
+		Object030 [220 polys, 660 verts (decal)] 'NewNewMaterial #6'
+		Object031 [146 polys, 438 verts (decal)] 'NewNewMaterial #6'
+		Object032 [137 polys, 411 verts (decal)] 'NewNewMaterial #6'
+		Object033 [82 polys, 246 verts (decal)] 'NewNewMaterial #6'
+		warning [14 polys, 42 verts (decal)] 'NewNewMaterial #6'
+			AltLow [14 polys, 42 verts (decal)] 'NewNewMaterial #32'
+		Object035 [778 polys, 2334 verts (decal)] 'NewNewMaterial #6'
+			Rohr01 [36 polys, 108 verts (decal)] 'NewNewMaterial #6'
+			Horizon [48 polys, 144 verts (decal)] 'NewNewMaterial #6'
+		MinuteNeedle [11 polys, 33 verts (decal)] 'NewNewMaterial #6'
+		Temp1 [3 polys, 9 verts (decal)] 'NewNewMaterial #6'
+		RPM1 [7 polys, 21 verts (decal)] 'NewNewMaterial #6'
+		Slip [7 polys, 21 verts (decal)] 'NewNewMaterial #6'
+		AltNeedle [3 polys, 9 verts (decal)] 'NewNewMaterial #6'
+		RAltNeedle [7 polys, 21 verts (decal)] 'NewNewMaterial #6'
+		AoA_needle [3 polys, 9 verts (decal)] 'NewNewMaterial #6'
+		AoA_needle2 [3 polys, 9 verts (decal)] 'NewNewMaterial #6'
+		AS [10 polys, 30 verts (decal)] 'NewNewMaterial #6'
+		HourNeedle [11 polys, 33 verts (decal)] 'NewNewMaterial #6'
+		Temp2 [3 polys, 9 verts (decal)] 'NewNewMaterial #6'
+		nadpisi [80 polys, 240 verts (decal)] 'NewNewMaterial #27'
+		HUDGLASS1A [38 polys, 114 verts (decal)] 'Material #56'
+		Object05 [60 polys, 180 verts (decal)] 'NewNewMaterial #7'
+		Object01 [224 polys, 672 verts (decal)] 'NewNewMaterial #7'
+		ObjectNew [3197 polys, 9591 verts (decal)] 'NewNewMaterial #6'
+			Inst19 [2 polys, 6 verts (decal)] 'Material #46'
+				RectanguloAux [2 polys, 6 verts (decal)] '20 - Default'
+				SPO-15 [146 polys, 438 verts (decal)] 'Material #47'
+		Object036 [2 polys, 6 verts (decal)] 'NewNewMaterial #6'
+			AB [28 polys, 84 verts (decal)] 'NewNewMaterial #26'
+			LGLight [14 polys, 42 verts (decal)] 'NewNewMaterial #21'
+			RGLight [14 polys, 42 verts (decal)] 'NewNewMaterial #20'
+			FGLight [14 polys, 42 verts (decal)] 'NewNewMaterial #22'
+			Flaps1 [28 polys, 84 verts (decal)] 'NewNewMaterial #25'
+			Flaps2 [28 polys, 84 verts (decal)] 'NewNewMaterial #23'
+		LuzPanelLatDer01 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer02 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer03 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer04 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer05 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer06 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer12 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer10 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer08 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer21 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer07 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer15 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer16 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer17 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer18 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer19 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer20 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer11 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer23 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer24 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer25 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer28 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer29 [22 polys, 66 verts (decal)] 'Material #44'
+		LuzPanelLatDer30 [22 polys, 66 verts (decal)] 'Material #44'
+
+
+Num Nodes: 133
+Total:    (26259 polys, 78777 verts)
+Mesh Max: (3197 polys, 9591 verts)
+
+30 Materials:
+ (  1) NewNewMaterial #8:
+       Frogfoot Wings.jpg
+ (  2) Material #45:
+       Transparency enabled
+       Frogfoot Cannopy Glass.tga
+ (  3) Material #42:
+       Transparency enabled
+       Frogfoot Instruments Glass.tga
+ (  4) NewNewMaterial #6:
+       Frogfoot Cockpit.jpg
+ (  5) NewNewMaterial #7:
+       Frogfoot Fuselage.jpg
+ (  6) Material #53:
+       Rubber.jpg
+ (  7) Material #54:
+       mirror.bmp
+ (  8) Material #57:
+       Leyka.bmp
+ (  9) NewNewMaterial #29:
+       RedLight.jpg
+ ( 10) NewNewMaterial #34:
+       YellowLight.jpg
+ ( 11) NewMaterial #0:
+       GreenLight.jpg
+ ( 12) Material #55:
+       HudLights.jpg
+ ( 13) Material #48:
+       GreenLight.jpg
+ ( 14) Material #50:
+       RedLight.jpg
+ ( 15) Material #51:
+       BlueLight.jpg
+ ( 16) Material #49:
+       YellowLight.jpg
+ ( 17) NewNewMaterial #4:
+       Frogfoot_HUDGlassTop.tga
+ ( 18) NewNewMaterial #32:
+       Danger.bmp
+ ( 19) NewNewMaterial #27:
+       Frogfoot Instruments.jpg
+ ( 20) Material #56:
+       Transparency enabled
+       Frogfoot HUDglass.tga
+ ( 21) Material #46:
+       Transparency enabled
+       Bereza.tga
+ ( 22) 20 - Default:
+       <No Texture>
+ ( 23) Material #47:
+       RWR.bmp
+ ( 24) NewNewMaterial #26:
+       GreenLight.bmp
+ ( 25) NewNewMaterial #21:
+       GreenLight.bmp
+ ( 26) NewNewMaterial #20:
+       GreenLight.bmp
+ ( 27) NewNewMaterial #22:
+       GreenLight.bmp
+ ( 28) NewNewMaterial #25:
+       GreenLight.bmp
+ ( 29) NewNewMaterial #23:
+       GreenLight.bmp
+ ( 30) Material #44:
+       Frogfoot Cockpit Lites.tga
+
+21 Textures:
+Frogfoot Wings.jpg
+Frogfoot Cannopy Glass.tga
+Frogfoot Instruments Glass.tga
+Frogfoot Cockpit.jpg
+Frogfoot Fuselage.jpg
+Rubber.jpg
+mirror.bmp
+Leyka.bmp
+RedLight.jpg
+YellowLight.jpg
+GreenLight.jpg
+HudLights.jpg
+BlueLight.jpg
+Frogfoot_HUDGlassTop.tga
+Danger.bmp
+Frogfoot Instruments.jpg
+Frogfoot HUDglass.tga
+Bereza.tga
+RWR.bmp
+GreenLight.bmp
+Frogfoot Cockpit Lites.tga
+
+Points
+
+Extents

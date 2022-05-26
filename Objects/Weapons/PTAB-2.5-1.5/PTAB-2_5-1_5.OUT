@@ -1,0 +1,28 @@
+	body [836 polys, 749 verts] 'm'
+		Bugel1 [160 polys, 160 verts] 'm_ns'
+		lug01 [72 polys, 70 verts] 'm'
+		Detonator [368 polys, 432 verts] 'm'
+		fins_t [48 polys, 96 verts] 'm'
+		stab_base [112 polys, 160 verts] 'm'
+
+
+Num Nodes: 6
+Total:    (1596 polys, 1667 verts)
+Mesh Max: (836 polys, 749 verts)
+
+2 Materials:
+ (  1) m:
+       Specular=0.30, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.00
+       PTAB-2_5-1_5.bmp
+ (  2) m_ns:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       Reflection=0.00
+       PTAB-2_5-1_5.bmp
+
+1 Textures:
+PTAB-2_5-1_5.bmp
+
+Points
+
+Extents

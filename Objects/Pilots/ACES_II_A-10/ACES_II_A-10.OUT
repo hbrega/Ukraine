@@ -1,0 +1,81 @@
+	Seat_Back [128 polys, 183 verts] 'Normal'
+		Cannon_Box [512 polys, 556 verts] 'Normal'
+			Cannon [36 polys, 36 verts] 'Normal'
+		Chute_Box02 [42 polys, 44 verts] 'Normal'
+			Chute_Box01 [12 polys, 24 verts] 'Normal'
+				cap [144 polys, 81 verts] '01 - Default'
+					Strap [120 polys, 144 verts] 'Normal'
+				Sensor_Left [198 polys, 216 verts] 'Normal'
+				Sensor_Right [198 polys, 216 verts] 'Normal'
+				Rear_Braket01 [8 polys, 16 verts] 'Normal'
+				Rear_Braket02 [8 polys, 16 verts] 'Normal'
+			Gurt_02 [42 polys, 56 verts] '01 - Default'
+			Gurt 01 [42 polys, 56 verts] '01 - Default'
+			Chute_Box03 [136 polys, 119 verts] '01 - Default'
+		Head_Rest02 [10 polys, 20 verts] '01 - Default'
+		Head_Rest01 [10 polys, 20 verts] '01 - Default'
+		Seat_Cushion [412 polys, 266 verts] '01 - Default'
+		Seat_Bowl [604 polys, 507 verts] 'Normal'
+			Safty_Lock [36 polys, 40 verts] 'Normal'
+			Releae_Handle [174 polys, 175 verts] 'Normal'
+			Surwifel_Kit [36 polys, 66 verts] 'Normal'
+				Seat_Cushion01 [356 polys, 186 verts] '01 - Default'
+			Leg_Protector_L [64 polys, 72 verts] 'Normal'
+			Leg_Protector_R [64 polys, 72 verts] 'Normal'
+			Tube_04 [208 polys, 112 verts] 'Normal'
+			Eject_Handle [516 polys, 330 verts] 'Normal'
+			Cylinder01 [164 polys, 180 verts] 'Normal'
+			Cylinder02 [164 polys, 180 verts] 'Normal'
+		Bottle [340 polys, 327 verts] 'Normal'
+		Rail [88 polys, 128 verts] 'Normal'
+			Rail_Bridge01 [747 polys, 828 verts] 'Normal'
+				Screw_01 [66 polys, 71 verts] 'Normal'
+				Screw_02 [66 polys, 71 verts] 'Normal'
+				Screw_03 [66 polys, 71 verts] 'Normal'
+				Screw_04 [66 polys, 71 verts] 'Normal'
+				Screw_05 [66 polys, 71 verts] 'Normal'
+				Screw_06 [66 polys, 71 verts] 'Normal'
+				Screw_07 [66 polys, 71 verts] 'Normal'
+				Screw_08 [66 polys, 71 verts] 'Normal'
+				Rail_Cross [24 polys, 48 verts] 'Normal'
+				Screw_09 [66 polys, 71 verts] 'Normal'
+				Screw_10 [66 polys, 71 verts] 'Normal'
+				Screw_11 [66 polys, 71 verts] 'Normal'
+				Screw_12 [66 polys, 71 verts] 'Normal'
+			Rail_Bridge02 [76 polys, 128 verts] 'Normal'
+		Bracket [66 polys, 80 verts] 'Normal'
+			dose [68 polys, 72 verts] 'Normal'
+		Tube_01 [390 polys, 208 verts] 'Normal'
+			Nut_01 [24 polys, 38 verts] 'Normal'
+			Nut_02 [24 polys, 38 verts] 'Normal'
+			Nut_03 [32 polys, 48 verts] 'Normal'
+			Nut_04 [32 polys, 48 verts] 'Normal'
+			Nut_05 [32 polys, 48 verts] 'Normal'
+			Nut_06 [24 polys, 38 verts] 'Normal'
+			Nut_07 [24 polys, 38 verts] 'Normal'
+			T_Fitting [56 polys, 60 verts] 'Normal'
+		Tube_02 [454 polys, 248 verts] 'Normal'
+			Nut_08 [32 polys, 48 verts] 'Normal'
+			Nut_09 [24 polys, 38 verts] 'Normal'
+		Bracket01 [66 polys, 80 verts] 'Normal'
+			dose01 [68 polys, 72 verts] 'Normal'
+		Glas_Cutter01 [48 polys, 68 verts] 'Normal'
+		Glas_Cutter02 [48 polys, 68 verts] 'Normal'
+
+
+Num Nodes: 63
+Total:    (8023 polys, 7638 verts)
+Mesh Max: (747 polys, 828 verts)
+
+2 Materials:
+ (  1) Normal:
+       ACES_II_A-10.bmp
+ (  2) 01 - Default:
+       ACES_II_A-10.bmp
+
+1 Textures:
+ACES_II_A-10.bmp
+
+Points
+
+Extents

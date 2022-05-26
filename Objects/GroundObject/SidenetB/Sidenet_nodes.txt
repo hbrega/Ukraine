@@ -1,0 +1,20 @@
+
+* Sidenet Nodes *
+
+Chassis
+Wheels
+Cab
+Mast07
+Mast05
+Mast02
+Mast09
+Mast06
+Mast08
+Radar01
+Wheels06
+
+
+
+
+
+

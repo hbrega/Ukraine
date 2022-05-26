@@ -1,0 +1,19 @@
+	Wing4 (28 polys, 84 verts) '01 - Default'
+	Wing3 (28 polys, 84 verts) '01 - Default'
+	Wing2 (28 polys, 84 verts) '01 - Default'
+	Wing1 (28 polys, 84 verts) '01 - Default'
+	Cylinder01 (704 polys, 2112 verts) '01 - Default'
+	engine (416 polys, 1248 verts) '01 - Default'
+	Booster (396 polys, 1188 verts) '01 - Default'
+
+
+Num Nodes: 7
+Total:    (1628 polys, 4884 verts)
+Mesh Max: (704 polys, 2112 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       Kh-59M.bmp
+
+1 Textures:
+Kh-59M.bmp

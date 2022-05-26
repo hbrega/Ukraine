@@ -1,0 +1,14 @@
+	body (680 polys, 2040 verts) '1 - Default'
+		wing (28 polys, 84 verts) '1 - Default'
+
+
+Num Nodes: 2
+Total:    (708 polys, 2124 verts)
+Mesh Max: (680 polys, 2040 verts)
+
+1 Materials:
+ (  1) 1 - Default:
+       as-4.bmp
+
+1 Textures:
+as-4.bmp

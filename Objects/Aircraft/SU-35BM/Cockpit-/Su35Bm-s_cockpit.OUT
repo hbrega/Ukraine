@@ -1,0 +1,315 @@
+	Pupitre (58 polys, 174 verts) '7 - Default'
+		Line01 (108 polys, 324 verts) '7 - Defaultg'
+			Line06 (144 polys, 432 verts) '5 - Default'
+				Line10 (9 polys, 27 verts) 'f'
+				Line13 (2 polys, 6 verts) '5 - Default'
+				Line15 (23 polys, 69 verts) '22 - Default'
+					FuelNeedleR01 (2 polys, 6 verts) '11 - Default'
+					AOA_Needle03 (2 polys, 6 verts) '11 - Default'
+					ADI_Mark01 (2 polys, 6 verts) '11 - Default'
+					ADI01 (72 polys, 216 verts) '10 - Defaultxs'
+					HsiCompassWheel2 (36 polys, 108 verts) '10 - Defaultxs'
+			Cylinder04 (196 polys, 588 verts) '7 - Defaultg'
+			Cylinder05 (196 polys, 588 verts) '7 - Defaultg'
+			Cylinder06 (196 polys, 588 verts) '7 - Defaultg'
+			Box04 (120 polys, 360 verts) '7 - Defaultg'
+				CAUTION (2 polys, 6 verts) '18 - Default'
+					Control (2 polys, 6 verts) '18 - Default'
+					Manual mode (2 polys, 6 verts) '18 - Default'
+					Fire (2 polys, 6 verts) '18 - Default'
+					Generators (2 polys, 6 verts) '18 - Default'
+					AC/D (2 polys, 6 verts) '18 - Default'
+				L-fire (2 polys, 6 verts) '18 - Default'
+				R-fire (2 polys, 6 verts) '18 - Default'
+				OverAOA (2 polys, 6 verts) '18 - Default'
+				VSFire (2 polys, 6 verts) '18 - Default'
+			Line02 (144 polys, 432 verts) '7 - Defaultg'
+				Rectangle02 (912 polys, 2736 verts) '7 - Defaultg'
+				Ldisplay (22 polys, 66 verts) '2 '
+					ADI (72 polys, 216 verts) '10 - Defaultxs'
+					ADI_Mark (2 polys, 6 verts) '11 - Default'
+					Plane02 (2 polys, 6 verts) 'f'
+					SIDESLIPNeedle (2 polys, 6 verts) '11 - Default'
+					Mach_Needle (2 polys, 6 verts) '11 - Default'
+					G_Needle (2 polys, 6 verts) '11 - Default'
+					Plane05 (2 polys, 6 verts) '11 - Default'
+					Plane04 (2 polys, 6 verts) '11 - Default'
+					AltMeterNeedle2 (2 polys, 6 verts) '11 - Default'
+					CourseArrow (2 polys, 6 verts) '11 - Default'
+					DeviationNeedle2 (2 polys, 6 verts) '11 - Default'
+					DeviationNeedle1 (2 polys, 6 verts) '11 - Default'
+					Plane03 (2 polys, 6 verts) '11 - Default'
+					BearingMarker (2 polys, 6 verts) '11 - Default'
+					HsiCompassWheel (16 polys, 48 verts) '11 - Default'
+					AltMeterNeedle1 (2 polys, 6 verts) '11 - Default'
+					alt_digT1 (20 polys, 60 verts) '14 - Default'
+					alt_digT2 (20 polys, 60 verts) '14 - Default'
+					alt_digT3 (20 polys, 60 verts) '14 - Default'
+					alt_digB1 (20 polys, 60 verts) '14 - Default'
+					alt_digB2 (20 polys, 60 verts) '14 - Default'
+					alt_dig1 (20 polys, 60 verts) '14 - Default'
+					alt_dig2 (20 polys, 60 verts) '14 - Default'
+					Fuel_IndexA (2 polys, 6 verts) '11 - Default'
+						Fuel_IndexB (2 polys, 6 verts) '11 - Default'
+					FuelNeedleL (2 polys, 6 verts) '11 - Default'
+						FuelNeedleR (2 polys, 6 verts) '11 - Default'
+					HSI_coursedig1 (20 polys, 60 verts) '14 - Default'
+					HSI_coursedig2 (20 polys, 60 verts) '14 - Default'
+					HSI_coursedig3 (20 polys, 60 verts) '14 - Default'
+					HSI_rangedig3 (20 polys, 60 verts) '14 - Default'
+					HSI_rangedig2 (20 polys, 60 verts) '14 - Default'
+					HSI_rangedig1 (20 polys, 60 verts) '14 - Default'
+					AoANeedle (2 polys, 6 verts) '11 - Default'
+					spd_coursedig3 (20 polys, 60 verts) '14 - Default'
+					spd_coursedig2 (20 polys, 60 verts) '14 - Default'
+					spd_coursedig1 (20 polys, 60 verts) '14 - Default'
+					HSI_coursedigN1 (20 polys, 60 verts) '14 - Default'
+					HSI_coursedigN2 (20 polys, 60 verts) '14 - Default'
+					HSI_coursedigN3 (20 polys, 60 verts) '14 - Default'
+					NeedleTEMPL (2 polys, 6 verts) '11 - Default'
+					Ldisplay01 (3 polys, 9 verts) '2 '
+					NeedleTEMPR (2 polys, 6 verts) '11 - Default'
+					Ldisplay03 (3 polys, 9 verts) '2 '
+					Throttle_digA1 (20 polys, 60 verts) '14 - Default'
+					Throttle_digA2 (20 polys, 60 verts) '14 - Default'
+					Throttle_digA3 (20 polys, 60 verts) '14 - Default'
+					Throttle_digB1 (20 polys, 60 verts) '14 - Default'
+					Throttle_digB2 (20 polys, 60 verts) '14 - Default'
+					Throttle_digB3 (20 polys, 60 verts) '14 - Default'
+					left iti needle (2 polys, 6 verts) '11 - Default'
+					right iti needle (2 polys, 6 verts) '11 - Default'
+					ThrottleNeedL (2 polys, 6 verts) '11 - Default'
+					ThrottleNeedR (2 polys, 6 verts) '11 - Default'
+					IN_Fuel_C_dig1 (20 polys, 60 verts) '14 - Default'
+						IN_Fuel_C_dig04 (20 polys, 60 verts) '14 - Default'
+					IN_Fuel_C_dig2 (20 polys, 60 verts) '14 - Default'
+						IN_Fuel_C_dig05 (20 polys, 60 verts) '14 - Default'
+					IN_Fuel_C_dig3 (20 polys, 60 verts) '14 - Default'
+						IN_Fuel_C_dig06 (20 polys, 60 verts) '14 - Default'
+					R-overheat (2 polys, 6 verts) '7 - Defaultg'
+					L-overheat (2 polys, 6 verts) '7 - Defaultg'
+					Engine_TmpeL_dig1 (20 polys, 60 verts) '14 - Default'
+					Engine_TmpeL_dig2 (20 polys, 60 verts) '14 - Default'
+					Engine_TmpeL_dig3 (20 polys, 60 verts) '14 - Default'
+					Engine_TmpeR_dig1 (20 polys, 60 verts) '14 - Default'
+					Engine_TmpeR_dig2 (20 polys, 60 verts) '14 - Default'
+					Engine_TmpeR_dig3 (20 polys, 60 verts) '14 - Default'
+					Plane07 (2 polys, 6 verts) '2 '
+					full02 (2 polys, 6 verts) '2 '
+					Onfire (2 polys, 6 verts) '2 '
+					malfunction (2 polys, 6 verts) '2 '
+						malfunction01 (2 polys, 6 verts) '2 '
+						malfunction02 (2 polys, 6 verts) '2 '
+				Ldisplay02 (2 polys, 6 verts) '17 - Default'
+					AG02 (2 polys, 6 verts) '17 - Default'
+						Plane17 (2 polys, 6 verts) '17 - Default'
+					AG04 (2 polys, 6 verts) '17 - Default'
+						Plane16 (2 polys, 6 verts) '17 - Default'
+					AG06 (2 polys, 6 verts) '17 - Default'
+						Plane15 (2 polys, 6 verts) '17 - Default'
+					AG08 (2 polys, 6 verts) '17 - Default'
+						Plane14 (2 polys, 6 verts) '17 - Default'
+					AG10 (2 polys, 6 verts) '17 - Default'
+						Plane08 (2 polys, 6 verts) '17 - Default'
+					AG12 (2 polys, 6 verts) '17 - Default'
+						Plane13 (2 polys, 6 verts) '17 - Default'
+					AG11 (2 polys, 6 verts) '17 - Default'
+						Plane12 (2 polys, 6 verts) '17 - Default'
+					AG07 (2 polys, 6 verts) '17 - Default'
+						Plane11 (2 polys, 6 verts) '17 - Default'
+					AG05 (2 polys, 6 verts) '17 - Default'
+						Plane10 (2 polys, 6 verts) '17 - Default'
+					AG03 (2 polys, 6 verts) '17 - Default'
+						Plane18 (2 polys, 6 verts) '17 - Default'
+					AG01 (2 polys, 6 verts) '17 - Default'
+						Plane19 (2 polys, 6 verts) '17 - Default'
+					AG09 (2 polys, 6 verts) '17 - Default'
+						Plane09 (2 polys, 6 verts) '17 - Default'
+					IRM_S (2 polys, 6 verts) '17 - Default'
+					AHM_S (2 polys, 6 verts) '17 - Default'
+					SHAM_S (2 polys, 6 verts) '17 - Default'
+			Line08 (144 polys, 432 verts) '7 - Defaultg'
+				Rectangle03 (912 polys, 2736 verts) '7 - Defaultg'
+				RadarSwitch (2 polys, 6 verts) 'ERROR: No material is assigned!'
+					radar (2 polys, 6 verts) '12 - RADAR'
+				Movingmap (2 polys, 6 verts) '13 - MAP'
+					HsiCompassWheel03 (2 polys, 6 verts) '23 - Default'
+					HsiCompassWheel01 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN01 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN00 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN02 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN03 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN04 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN05 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN06 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN07 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN08 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN09 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN10 (2 polys, 6 verts) '23 - Default'
+						HsiCompassWheelN11 (2 polys, 6 verts) '23 - Default'
+					HsiCompassWheel05 (8 polys, 24 verts) '23 - Default'
+						HSI_coursedigRM3 (20 polys, 60 verts) '23 - Default'
+						HSI_coursedigRM2 (20 polys, 60 verts) '23 - Default'
+						HSI_coursedigRM1 (20 polys, 60 verts) '23 - Default'
+					HsiCompassWheel02 (2 polys, 6 verts) '23 - Default'
+					Plane20 (2 polys, 6 verts) '23 - Default'
+			HUDBottom (61 polys, 183 verts) '16 - Default'
+				bottomdisplay (2 polys, 6 verts) '16 - Default'
+			HUD (199 polys, 597 verts) '16 - Default'
+				HUDGlass2 (22 polys, 66 verts) '20 - Default'
+				HUDGlass1 (22 polys, 66 verts) '20 - Default'
+				HUDSTAY (2 polys, 6 verts) '21 - Default'
+					HUDMOVE (2 polys, 6 verts) '21 - Default'
+			Line04 (28 polys, 84 verts) '16 - Default'
+			Plane06 (2 polys, 6 verts) '7 - Defaultg'
+				Box06 (10 polys, 30 verts) '7 - Defaultg'
+				Box05 (10 polys, 30 verts) '7 - Defaultg'
+			Plane01 (2 polys, 6 verts) '7 - Defaultg'
+				Box03 (10 polys, 30 verts) '7 - Defaultg'
+					gear (2 polys, 6 verts) '18 - Default'
+				Cylinder09 (20 polys, 60 verts) '7 - Defaultg'
+					LandingGearHandlel (12 polys, 36 verts) '7 - Defaultg'
+						Cylinder08 (40 polys, 120 verts) '7 - Defaultg'
+			GearW (2 polys, 6 verts) '18 - Default'
+			IRswitch (52 polys, 156 verts) '7 - Defaultg'
+			Box01 (12 polys, 36 verts) '16 - Default'
+			Box09 (12 polys, 36 verts) '16 - Default'
+		cockpit_su (448 polys, 1344 verts) '2 - Default'
+			Canopy fra (748 polys, 2244 verts) '2 - Default'
+				m03 (18 polys, 54 verts) '6 - Default'
+				mirror03 (98 polys, 294 verts) 'Material #22'
+				mirror1 (98 polys, 294 verts) 'Material #22'
+					m1 (18 polys, 54 verts) '6 - Default'
+				mirror02 (98 polys, 294 verts) 'Material #22'
+				m02 (18 polys, 54 verts) '6 - Default'
+				canopy fr0 (22 polys, 66 verts) '4 - Default'
+				canopy fro (44 polys, 132 verts) '4 - Default'
+				canopy rea (256 polys, 768 verts) '20 - Default'
+		K36D (94 polys, 282 verts) '9 - Defaulty'
+		BaseStick (22 polys, 66 verts) '3 - Default'
+			Box02 (12 polys, 36 verts) '19 - Default'
+				control1 (50 polys, 150 verts) '7 - Defaultg'
+					Cylinder18 (80 polys, 240 verts) '7 - Defaultg'
+						Cylinder19 (30 polys, 90 verts) '7 - Defaultg'
+							Cylinder20 (30 polys, 90 verts) '7 - Defaultg'
+								Cylinder21 (24 polys, 72 verts) '7 - Defaultg'
+						Cylinder23 (24 polys, 72 verts) '7 - Defaultg'
+						Line12 (276 polys, 828 verts) '7 - Defaultg'
+							Box15 (2 polys, 6 verts) '22 - Default'
+								Cylinder15 (54 polys, 162 verts) '16 - Default'
+							Cylinder03 (30 polys, 90 verts) '7 - Defaultg'
+								Cylinder14 (24 polys, 72 verts) '7 - Defaultg'
+							Cylinder01 (55 polys, 165 verts) '7 - Defaultg'
+								Cylinder07 (40 polys, 120 verts) '7 - Defaultg'
+								Cylinder13 (30 polys, 90 verts) '7 - Defaultg'
+									Cylinder02 (24 polys, 72 verts) '7 - Defaultg'
+							Cylinder16 (30 polys, 90 verts) '7 - Defaultg'
+								Cylinder17 (24 polys, 72 verts) '7 - Defaultg'
+							Box16 (10 polys, 30 verts) '7 - Defaultg'
+								Box17 (10 polys, 30 verts) '7 - Defaultg'
+		Right_Rudder (115 polys, 345 verts) '7 - Default'
+		Left_Rudder (115 polys, 345 verts) '7 - Default'
+		LMDF (42 polys, 126 verts) '7 - Defaultg'
+			RWR (2 polys, 6 verts) '15 - Default'
+		Cylinder10 (24 polys, 72 verts) '7 - Defaultg'
+			RPMContro0 (8 polys, 24 verts) '7 - Defaultg'
+				Line09 (67 polys, 201 verts) '7 - Defaultg'
+					Cylinder11 (30 polys, 90 verts) '7 - Defaultg'
+				Box10 (8 polys, 24 verts) '7 - Defaultg'
+					Line16 (67 polys, 201 verts) '7 - Defaultg'
+		Box07 (10 polys, 30 verts) '7 - Defaultg'
+		Box08 (10 polys, 30 verts) '7 - Defaultg'
+
+
+Num Nodes: 221
+Total:    (8245 polys, 24735 verts)
+Mesh Max: (912 polys, 2736 verts)
+
+25 Materials:
+ (  1) 7 - Default:
+       paineis.bmp
+ (  2) 7 - Defaultg:
+       sm1.bmp
+ (  3) 5 - Default:
+       SU-35_mfd.bmp
+ (  4) f:
+       Transparency enabled
+       Self-illumination enabled
+       needle2.tga
+ (  5) 22 - Default:
+       Self-illumination enabled
+       SU-35_mfd.bmp
+ (  6) 11 - Default:
+       Transparency enabled
+       Self-illumination enabled
+       needle.tga
+ (  7) 10 - Defaultxs:
+       Self-illumination enabled
+       ADI.bmp
+ (  8) 18 - Default:
+       Self-illumination enabled
+       sm1.bmp
+ (  9) 2 :
+       Self-illumination enabled
+       displayL.bmp
+ ( 10) 14 - Default:
+       Self-illumination enabled
+       figures.bmp
+ ( 11) 17 - Default:
+       Self-illumination enabled
+       HUD.bmp
+ ( 12) 12 - RADAR:
+       Su-27_hud.tga
+ ( 13) 13 - MAP:
+       close_radar.BMP
+ ( 14) 23 - Default:
+       Transparency enabled
+       Self-illumination enabled
+       mfd.tga
+ ( 15) 16 - Default:
+       HUD.bmp
+ ( 16) 20 - Default:
+       Transparency enabled
+       A10A_REFLEC2.TGA
+ ( 17) 21 - Default:
+       Transparency enabled
+       Self-illumination enabled
+       Su-27_hud.tga
+ ( 18) 2 - Default:
+       box.bmp
+ ( 19) 6 - Default:
+       vb.bmp
+ ( 20) Material #22:
+       <No Texture>
+ ( 21) 4 - Default:
+       Transparency enabled
+       F86_reflection2.tga
+ ( 22) 9 - Defaulty:
+       T07.bmp
+ ( 23) 3 - Default:
+       mainpanels.bmp
+ ( 24) 19 - Default:
+       <No Texture>
+ ( 25) 15 - Default:
+       Su-27SM_RWR.bmp
+
+19 Textures:
+paineis.bmp
+sm1.bmp
+SU-35_mfd.bmp
+needle2.tga
+needle.tga
+ADI.bmp
+displayL.bmp
+figures.bmp
+HUD.bmp
+Su-27_hud.tga
+close_radar.BMP
+mfd.tga
+A10A_REFLEC2.TGA
+box.bmp
+vb.bmp
+F86_reflection2.tga
+T07.bmp
+mainpanels.bmp
+Su-27SM_RWR.bmp

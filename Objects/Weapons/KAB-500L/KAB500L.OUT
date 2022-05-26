@@ -1,0 +1,16 @@
+	Line02 (384 polys, 1152 verts) '01 - DeF'
+		Line05 (64 polys, 192 verts) '01 - DeF'
+		Line04 (710 polys, 2130 verts) '01 - DeF'
+		Line06 (64 polys, 192 verts) '01 - DeF'
+
+
+Num Nodes: 4
+Total:    (1222 polys, 3666 verts)
+Mesh Max: (710 polys, 2130 verts)
+
+1 Materials:
+ (  1) 01 - DeF:
+       KAB.bmp
+
+1 Textures:
+KAB.bmp

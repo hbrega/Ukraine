@@ -1,0 +1,24 @@
+	Body [916 polys, 633 verts] '03 - Default'
+		lug02 [92 polys, 110 verts] '03 - Default'
+		lug01 [92 polys, 110 verts] '03 - Default'
+		Wing1 [20 polys, 32 verts] '03 - Default'
+		Wing2 [20 polys, 32 verts] '03 - Default'
+		Wing3 [20 polys, 32 verts] '03 - Default'
+		Stab [160 polys, 160 verts] '03 - Default'
+		Wing4 [20 polys, 32 verts] '03 - Default'
+
+
+Num Nodes: 8
+Total:    (1340 polys, 1141 verts)
+Mesh Max: (916 polys, 633 verts)
+
+1 Materials:
+ (  1) 03 - Default:
+       RBK-500 ZAB-2_5.bmp
+
+1 Textures:
+RBK-500 ZAB-2_5.bmp
+
+Points
+
+Extents

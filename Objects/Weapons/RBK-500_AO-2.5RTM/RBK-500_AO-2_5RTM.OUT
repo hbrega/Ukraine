@@ -1,0 +1,19 @@
+	Body (1036 polys, 3108 verts) '03 - Default'
+	Wing1 (20 polys, 60 verts) '03 - Default'
+	Wing2 (20 polys, 60 verts) '03 - Default'
+	Wing3 (20 polys, 60 verts) '03 - Default'
+	Stab (160 polys, 480 verts) '03 - Default'
+	Mount1 (352 polys, 1056 verts) '03 - Default'
+	Mount2 (352 polys, 1056 verts) '03 - Default'
+
+
+Num Nodes: 7
+Total:    (1960 polys, 5880 verts)
+Mesh Max: (1036 polys, 3108 verts)
+
+1 Materials:
+ (  1) 03 - Default:
+       RBK_500.bmp
+
+1 Textures:
+RBK_500.bmp

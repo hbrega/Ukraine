@@ -1,0 +1,27 @@
+	Body [996 polys, 688 verts] 'm'
+		lug2 [92 polys, 110 verts] 'm'
+		lug1 [92 polys, 110 verts] 'm'
+		Wings [114 polys, 157 verts] 'm'
+			FoldedFin1 [12 polys, 24 verts] 'm', AnimationID: 1 
+			FoldedFin2 [12 polys, 24 verts] 'm', AnimationID: 1 
+			FoldedFin3 [12 polys, 24 verts] 'm', AnimationID: 1 
+			FoldedFin4 [12 polys, 24 verts] 'm', AnimationID: 1 
+		Chute [420 polys, 1260 verts (animated)] 'm_ns', AnimationID: 1 
+
+
+Num Nodes: 9
+Total:    (1762 polys, 2421 verts)
+Mesh Max: (996 polys, 1260 verts)
+
+2 Materials:
+ (  1) m:
+       RBK-500U.bmp
+ (  2) m_ns:
+       RBK-500U.bmp
+
+1 Textures:
+RBK-500U.bmp
+
+Points
+
+Extents

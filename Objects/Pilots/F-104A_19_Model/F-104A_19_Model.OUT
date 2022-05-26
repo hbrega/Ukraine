@@ -1,0 +1,34 @@
+	NoseTF [228 polys, 166 verts] 'material_00'
+	Irst [124 polys, 104 verts] 'material_01'
+	IrstGlass [60 polys, 64 verts] 'material_01'
+	Pitot [174 polys, 124 verts] 'material_01'
+	RedBeacon [98 polys, 65 verts] 'material_00'
+	Tacan [16 polys, 22 verts] 'material_00'
+	Canopy [66 polys, 52 verts] '08 - Default'
+	Windsheld [36 polys, 42 verts] '08 - Default'
+	RearGlass [18 polys, 20 verts] '08 - Default'
+	GE19 [142 polys, 157 verts] 'material_00'
+
+
+Num Nodes: 10
+Total:    (962 polys, 816 verts)
+Mesh Max: (228 polys, 166 verts)
+
+3 Materials:
+ (  1) material_00:
+       F-104A_19_Model.bmp
+ (  2) material_01:
+       F-104A_19_Model.bmp
+ (  3) 08 - Default:
+       Transparency enabled
+       Specular=0.90, Glossiness=0.15, Color:<229,229,229>
+       Reflection=1.00
+       CANOPYGLASS.TGA
+
+2 Textures:
+F-104A_19_Model.bmp
+CANOPYGLASS.TGA
+
+Points
+
+Extents

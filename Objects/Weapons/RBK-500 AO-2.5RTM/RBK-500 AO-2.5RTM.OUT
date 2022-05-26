@@ -1,0 +1,23 @@
+	Body [716 polys, 499 verts] '03 - Default'
+		lug02 [92 polys, 110 verts] '03 - Default'
+		lug01 [92 polys, 110 verts] '03 - Default'
+		Wing1 [20 polys, 32 verts] '03 - Default'
+		Wing2 [20 polys, 32 verts] '03 - Default'
+		Wing3 [20 polys, 32 verts] '03 - Default'
+		Stab [160 polys, 160 verts] '03 - Default'
+
+
+Num Nodes: 7
+Total:    (1120 polys, 975 verts)
+Mesh Max: (716 polys, 499 verts)
+
+1 Materials:
+ (  1) 03 - Default:
+       RBK-500 AO-2.5RTM.bmp
+
+1 Textures:
+RBK-500 AO-2.5RTM.bmp
+
+Points
+
+Extents

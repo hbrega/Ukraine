@@ -1,0 +1,74 @@
+	NoseECM [130 polys, 84 verts] '20 - Default'
+	LeftNoseECM [140 polys, 108 verts] '20 - Default'
+	LeftNoseECMSupport [12 polys, 16 verts] '20 - Default'
+	LeftBellyECMSupport [12 polys, 16 verts] '20 - Default'
+	NoseGlass [56 polys, 80 verts] '21 - Default'
+	Bulge01 [130 polys, 84 verts] '20 - Default'
+	Bulge03 [130 polys, 96 verts] '20 - Default'
+	Bulge05 [130 polys, 84 verts] '20 - Default'
+	Scoop01 [166 polys, 109 verts] '20 - Default'
+	Scoop02 [166 polys, 109 verts] '20 - Default'
+	Scoop03 [166 polys, 109 verts] '20 - Default'
+	Scoop06 [166 polys, 109 verts] '20 - Default'
+	RightBellyECMSupport [12 polys, 16 verts] '20 - Default'
+	Bulge08 [130 polys, 96 verts] '20 - Default'
+	TopECM [130 polys, 84 verts] '20 - Default'
+	Scoop13 [166 polys, 109 verts] '20 - Default'
+	BellyFinAntenna01 [18 polys, 22 verts] '20 - Default'
+	BellyFinAntenna02 [18 polys, 22 verts] '20 - Default'
+	Scoop14 [166 polys, 109 verts] '20 - Default'
+	TailECM [130 polys, 96 verts] '20 - Default'
+	TailAntenna02 [28 polys, 36 verts] '20 - Default'
+	TailScoop1 [166 polys, 109 verts] '20 - Default'
+	TailBulge03 [93 polys, 63 verts] '20 - Default'
+	TailBulge01 [90 polys, 51 verts] '20 - Default'
+	TailEcmExhaust01 [26 polys, 32 verts] '20 - Default'
+	TailScoop02 [166 polys, 109 verts] '20 - Default'
+	TailBulge04 [90 polys, 51 verts] '20 - Default'
+	TailBulge05 [93 polys, 63 verts] '20 - Default'
+	TailAntenna03 [28 polys, 36 verts] '20 - Default'
+	T_antenna [84 polys, 84 verts] '20 - Default'
+	T_antenna01 [84 polys, 84 verts] '20 - Default'
+	WireAerial02 [30 polys, 32 verts] '20 - Default'
+	DorsalBladeAerial [20 polys, 28 verts] '20 - Default'
+	BladeAerial02 [20 polys, 28 verts] '20 - Default'
+	TailSirena [104 polys, 56 verts] '20 - Default'
+	BladeAerial03 [20 polys, 28 verts] '20 - Default'
+	BladeAerial04 [20 polys, 28 verts] '20 - Default'
+	AuxPitot [90 polys, 73 verts] '20 - Default'
+	AuxPitot01 [90 polys, 73 verts] '20 - Default'
+	AuxPitot02 [90 polys, 73 verts] '20 - Default'
+	NoseTip [132 polys, 102 verts] '20 - Default'
+	LeftExhaustCone [12 polys, 16 verts] '23 - Default'
+	RightExhaustCone [12 polys, 16 verts] '23 - Default'
+	RightIntakeSplitter [70 polys, 62 verts] '23 - Default'
+	LeftIntakeSplitter [70 polys, 62 verts] '23 - Default'
+	BombingRadar02 [710 polys, 377 verts] '20 - Default'
+	SPS-151 [508 polys, 264 verts] '20 - Default'
+	LeftBellyECM [214 polys, 148 verts] '20 - Default'
+	RightBellyECM [214 polys, 148 verts] '20 - Default'
+
+
+Num Nodes: 49
+Total:    (5548 polys, 3890 verts)
+Mesh Max: (710 polys, 377 verts)
+
+3 Materials:
+ (  1) 20 - Default:
+       Tu-16E.bmp
+ (  2) 21 - Default:
+       Transparency enabled
+       Specular=0.90, Glossiness=0.15, Color:<229,229,229>
+       Reflection=1.00
+       CANOPYGLASS.TGA
+ (  3) 23 - Default:
+       Tu-16Engine.bmp
+
+3 Textures:
+Tu-16E.bmp
+CANOPYGLASS.TGA
+Tu-16Engine.bmp
+
+Points
+
+Extents

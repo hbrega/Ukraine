@@ -1,0 +1,18 @@
+	Fuel tank (440 polys, 1320 verts) '15 - Default'
+	stab (20 polys, 60 verts) '15 - Default'
+	stab01 (20 polys, 60 verts) '15 - Default'
+	stab03 (20 polys, 60 verts) '15 - Default'
+	stab04 (20 polys, 60 verts) '15 - Default'
+	wings (20 polys, 60 verts) '15 - Default'
+
+
+Num Nodes: 6
+Total:    (540 polys, 1620 verts)
+Mesh Max: (440 polys, 1320 verts)
+
+1 Materials:
+ (  1) 15 - Default:
+       ptb-2000.bmp
+
+1 Textures:
+ptb-2000.bmp

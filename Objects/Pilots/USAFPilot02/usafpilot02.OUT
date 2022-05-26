@@ -1,0 +1,24 @@
+	Waist (64 polys, 192 verts) '01 - Default'
+		R_Thigh (48 polys, 144 verts) '01 - Default'
+			R_Foot (28 polys, 84 verts) '01 - Default'
+			R_Leg_lowe (66 polys, 198 verts) '01 - Default'
+		L_Thigh (48 polys, 144 verts) '01 - Default'
+			L_Foot (28 polys, 84 verts) '01 - Default'
+			L_Leg_lowe (66 polys, 198 verts) '01 - Default'
+		Chest (78 polys, 234 verts) '01 - Default'
+			R_Arm_uppe (56 polys, 168 verts) '01 - Default'
+				R_arm_lowe (32 polys, 96 verts) '01 - Default'
+					R_Hand (24 polys, 72 verts) '01 - Default'
+			L_Arm_uppe (56 polys, 168 verts) '01 - Default'
+				L_arm_lowe (32 polys, 96 verts) '01 - Default'
+					L_Hand (22 polys, 66 verts) '01 - Default'
+			Neck (18 polys, 54 verts) '01 - Default'
+				Head (50 polys, 150 verts) '01 - Default'
+					newVisor (16 polys, 48 verts) 'Material #2'
+					new helmet (156 polys, 468 verts) '01 - Default'
+					newBoom (20 polys, 60 verts) '01 - Default'
+		Belt (40 polys, 120 verts) '01 - Default'
+
+
+Total:    (948 polys, 2844 verts)
+Mesh Max: (156 polys, 468 verts)

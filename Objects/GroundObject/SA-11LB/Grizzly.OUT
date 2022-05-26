@@ -1,0 +1,28 @@
+	body (240 polys, 720 verts) '2 - Default'
+		track2 (2353 polys, 7059 verts) '4 - Default'
+			track (320 polys, 960 verts) '2 - Defaultr'
+		Turret (224 polys, 672 verts) '2 - Default'
+			a (840 polys, 2520 verts) '7 - Default'
+				LOD01_ve_grizzly_hydra_m1-1 (57 polys, 171 verts) '7 - Default'
+			radar (150 polys, 450 verts) '7 - Default'
+
+
+Num Nodes: 7
+Total:    (4184 polys, 12552 verts)
+Mesh Max: (2353 polys, 7059 verts)
+
+4 Materials:
+ (  1) 2 - Default:
+       Grizzly.bmp
+ (  2) 4 - Default:
+       Grizzly_Tracks2.bmp
+ (  3) 2 - Defaultr:
+       Grizzly_Tracks.bmp
+ (  4) 7 - Default:
+       9M317.bmp
+
+4 Textures:
+Grizzly.bmp
+Grizzly_Tracks2.bmp
+Grizzly_Tracks.bmp
+9M317.bmp

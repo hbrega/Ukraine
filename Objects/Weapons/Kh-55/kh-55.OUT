@@ -1,0 +1,24 @@
+	Object0201 (28 polys, 84 verts) '01 - Default'
+	Object2505 (36 polys, 108 verts) '01 - Default'
+	Object2504 (28 polys, 84 verts) '01 - Default'
+	Object2502 (28 polys, 84 verts) '01 - Default'
+	Wing02 (108 polys, 324 verts) '01 - Default'
+	Object04 (44 polys, 132 verts) '01 - Default'
+	body (520 polys, 1560 verts) '01 - Default'
+	Engine_ (440 polys, 1320 verts) '01 - Default'
+	Object05 (36 polys, 108 verts) '01 - Default'
+	Object2503 (36 polys, 108 verts) '01 - Default'
+	wing01 (108 polys, 324 verts) '01 - Default'
+	Pylon_e (22 polys, 66 verts) '01 - Default'
+
+
+Num Nodes: 12
+Total:    (1434 polys, 4302 verts)
+Mesh Max: (520 polys, 1560 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       kh-55.bmp
+
+1 Textures:
+kh-55.bmp

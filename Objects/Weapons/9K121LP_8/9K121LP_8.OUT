@@ -1,0 +1,55 @@
+	Launch Pod (1040 polys, 3120 verts) '02 - Default'
+	Mount1 (160 polys, 480 verts) '02 - Default'
+	Mount2 (160 polys, 480 verts) '02 - Default'
+	Mount4 (12 polys, 36 verts) '02 - Default'
+	Mount3 (12 polys, 36 verts) '02 - Default'
+	Launch Pod2 (1040 polys, 3120 verts) '02 - Default'
+	Mount05 (160 polys, 480 verts) '02 - Default'
+	Mount06 (160 polys, 480 verts) '02 - Default'
+	Mount07 (12 polys, 36 verts) '02 - Default'
+	Mount08 (12 polys, 36 verts) '02 - Default'
+	Launch Pod4 (1040 polys, 3120 verts) '02 - Default'
+	Mount13 (160 polys, 480 verts) '02 - Default'
+	Mount14 (160 polys, 480 verts) '02 - Default'
+	Mount15 (12 polys, 36 verts) '02 - Default'
+	Mount16 (12 polys, 36 verts) '02 - Default'
+	Launch Pod5 (1040 polys, 3120 verts) '02 - Default'
+	Mount17 (160 polys, 480 verts) '02 - Default'
+	Mount18 (160 polys, 480 verts) '02 - Default'
+	Mount19 (12 polys, 36 verts) '02 - Default'
+	Mount20 (12 polys, 36 verts) '02 - Default'
+	Launch Pod06 (1040 polys, 3120 verts) '02 - Default'
+	Mount21 (160 polys, 480 verts) '02 - Default'
+	Mount22 (160 polys, 480 verts) '02 - Default'
+	Mount23 (12 polys, 36 verts) '02 - Default'
+	Mount24 (12 polys, 36 verts) '02 - Default'
+	Launch Pod08 (1040 polys, 3120 verts) '02 - Default'
+	Mount29 (160 polys, 480 verts) '02 - Default'
+	Mount30 (160 polys, 480 verts) '02 - Default'
+	Mount31 (12 polys, 36 verts) '02 - Default'
+	Mount32 (12 polys, 36 verts) '02 - Default'
+	Balka (216 polys, 648 verts) '02 - Default'
+	Balka4 (216 polys, 648 verts) '02 - Default'
+	Pylon (132 polys, 396 verts) '02 - Default'
+	Mount09 (160 polys, 480 verts) '02 - Default'
+	Mount34 (160 polys, 480 verts) '02 - Default'
+	Mount35 (12 polys, 36 verts) '02 - Default'
+	Mount36 (12 polys, 36 verts) '02 - Default'
+	Launch Pod09 (1040 polys, 3120 verts) '02 - Default'
+	Mount10 (160 polys, 480 verts) '02 - Default'
+	Mount38 (160 polys, 480 verts) '02 - Default'
+	Mount39 (12 polys, 36 verts) '02 - Default'
+	Mount40 (12 polys, 36 verts) '02 - Default'
+	Launch Pod10 (1040 polys, 3120 verts) '02 - Default'
+
+
+Num Nodes: 43
+Total:    (11636 polys, 34908 verts)
+Mesh Max: (1040 polys, 3120 verts)
+
+1 Materials:
+ (  1) 02 - Default:
+       9M121_LP.bmp
+
+1 Textures:
+9M121_LP.bmp

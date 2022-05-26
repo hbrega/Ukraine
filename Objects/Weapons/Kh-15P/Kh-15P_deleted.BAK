@@ -1,0 +1,7 @@
+[WeaponData]
+ObjectFullName=Kh-15P Anti-Radiation Missile
+ObjectDataFile=Kh-15P_data.ini
+
+[LOD001]
+Filename=AS-16.lod
+Distance=2000

@@ -1,0 +1,19 @@
+	PTB-1150 [1008 polys, 557 verts] '02 - Default'
+		Nose_Wing [28 polys, 36 verts] '02 - Default'
+		Tail_Wing [118 polys, 142 verts] '02 - Default'
+
+
+Num Nodes: 3
+Total:    (1154 polys, 735 verts)
+Mesh Max: (1008 polys, 557 verts)
+
+1 Materials:
+ (  1) 02 - Default:
+       MiG-29_WTank.bmp
+
+1 Textures:
+MiG-29_WTank.bmp
+
+Points
+
+Extents

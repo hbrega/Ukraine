@@ -1,0 +1,18 @@
+	Base (646 polys, 1938 verts) '02 - Default'
+		site (26 polys, 78 verts) '022 - Default'
+		Rail (208 polys, 624 verts) '02 - Default'
+
+
+Num Nodes: 3
+Total:    (880 polys, 2640 verts)
+Mesh Max: (646 polys, 1938 verts)
+
+2 Materials:
+ (  1) 02 - Default:
+       MIM-Launcher1_des.bmp
+ (  2) 022 - Default:
+       concrete_des.bmp
+
+2 Textures:
+MIM-Launcher1_des.bmp
+concrete_des.bmp

@@ -1,0 +1,16 @@
+	Cylinder02 (1440 polys, 4320 verts) '15 - Default'
+	Box01 (20 polys, 60 verts) '15 - Default'
+	wing2 (12 polys, 36 verts) '15 - Default'
+	wing1 (12 polys, 36 verts) '15 - Default'
+
+
+Num Nodes: 4
+Total:    (1484 polys, 4452 verts)
+Mesh Max: (1440 polys, 4320 verts)
+
+1 Materials:
+ (  1) 15 - Default:
+       S-25LAU.bmp
+
+1 Textures:
+S-25LAU.bmp

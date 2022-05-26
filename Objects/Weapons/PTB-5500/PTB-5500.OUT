@@ -1,0 +1,20 @@
+	Tank [380 polys, 292 verts] '24 - Default'
+	Shield [52 polys, 68 verts] '24 - Default'
+	AttachLug01 [22 polys, 28 verts] '24 - Default'
+	AttachLug01 [22 polys, 28 verts] '24 - Default'
+
+
+Num Nodes: 4
+Total:    (476 polys, 416 verts)
+Mesh Max: (380 polys, 292 verts)
+
+1 Materials:
+ (  1) 24 - Default:
+       PTB-5500.bmp
+
+1 Textures:
+PTB-5500.bmp
+
+Points
+
+Extents

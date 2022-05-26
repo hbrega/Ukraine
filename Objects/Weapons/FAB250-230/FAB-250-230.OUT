@@ -1,0 +1,27 @@
+	Body [948 polys, 784 verts] 'm'
+		ring [336 polys, 352 verts] 'm'
+		Fins [112 polys, 192 verts] 'm'
+		lug2 [92 polys, 110 verts] 'm'
+		lug1 [92 polys, 110 verts] 'm'
+		lug3 [92 polys, 110 verts] 'm'
+		Fins2 [48 polys, 88 verts] 'm'
+		AVU-ET2 [104 polys, 91 verts] 'm'
+		AVU-ET [104 polys, 91 verts] 'm'
+
+
+Num Nodes: 9
+Total:    (1928 polys, 1928 verts)
+Mesh Max: (948 polys, 784 verts)
+
+1 Materials:
+ (  1) m:
+       Specular=0.30, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.00
+       FAB-250-230.bmp
+
+1 Textures:
+FAB-250-230.bmp
+
+Points
+
+Extents

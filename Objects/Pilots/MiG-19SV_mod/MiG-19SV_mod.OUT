@@ -1,0 +1,23 @@
+	J6AuxPitot [90 polys, 88 verts] '02 - Default'
+	SirenaRWR [30 polys, 30 verts] '02 - Default'
+	T_antenna [84 polys, 100 verts] '02 - Default'
+	LeftGunBase [44 polys, 46 verts] '02 - Default'
+	LeftGun [60 polys, 56 verts] '02 - Default'
+	RightGunBase [44 polys, 46 verts] '02 - Default'
+	RightGun [60 polys, 56 verts] '02 - Default'
+
+
+Num Nodes: 7
+Total:    (412 polys, 422 verts)
+Mesh Max: (90 polys, 100 verts)
+
+1 Materials:
+ (  1) 02 - Default:
+       MiG-19SV_mod.bmp
+
+1 Textures:
+MiG-19SV_mod.bmp
+
+Points
+
+Extents

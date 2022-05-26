@@ -1,0 +1,67 @@
+SARCASM: Slightly Artistic Representation (of) Clouds And Sky Mod
+
+by Stary
+
+version 1.3
+
+April 8th 2012
+
+-brand new high resolution clouds graphics based on my own photography works
+-new fog colour for broken skies, more bluish than stock gray
+-optional unchanged gray skies for broken included in it's folder -so you can choose your version
+-midday sky colours back to more realistic bluish, but different than stock
+-again, new clouds graphics
+
+I forgot some additional tweaks introduced during tests
+
+To install, unpack the package to your Flight folder, overwrite when asked
+
+------------------------------------------------------------------------------------
+ORIGINAL v1.0 README:
+------------------------------------------------------------------------------------
+
+This tiny mod is my modification of stock post-June11 environmentsystem.ini, that I created in spare time for own enjoyment. Incorporated are several tweaks and graphics files I created to slightly change the looks and feel of the SF2 series environment.
+
+Changes include:
+
+New, light blue sky colour for midday
+New, more purple, cinematic sky colours for sunrise/sunset
+Slightly modified fog colours
+Reduced sky glow for sunrise/sunset
+New, slighly bigger sun with new sun graphics
+New sun flare
+New clouds sizes and graphics for all weather types
+Now clear weather has some small fluffy clouds too
+New, bigger lens flares with new graphics
+Slightly bigger Moon
+New stars graphics
+New, stronger base winds and gusts for more dramatic smoke columns etc.
+Other tiny changes
+
+Please note: as of Expansion Pack 2, clouds height seems to be locked at specific untweakable altitude (=> ~10000 feet).
+I, aswell as others, tried various settings, even negative cloud base height values to no luck.
+
+----------------------------------------------------------------------------------
+
+Installation:
+First, backup these files, if present in you Flight folder:
+
+ENVIRONMENTSYSTEM.INI
+LENSFLARE_DIAMOND.TGA
+LENSFLARE_STAR.tga
+STAR.tga
+STR_CLOUDS.tga
+STR_CLOUDS2.tga
+STR_CLOUDS3.tga
+SUN.TGA
+
+To install extract this package to your main mods folder, if asked overwrite.
+
+----------------------------------------------------
+
+CombatAce's "Fair use" license apply. Not to be used in any kind of payware.
+All graphics by Stary 2011&2012
+
+Have fun
+Stary
+Przemek Starkiewicz

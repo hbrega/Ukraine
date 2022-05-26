@@ -1,0 +1,33 @@
+	Body [756 polys, 604 verts] 'm'
+		lug1 [92 polys, 110 verts] 'm'
+		lug2 [92 polys, 110 verts] 'm'
+		Nozzles [576 polys, 640 verts] 'm_ns'
+		fuze [82 polys, 60 verts] 'm'
+		Stab3 [32 polys, 46 verts] 'm'
+		cover [36 polys, 48 verts] 'm'
+		Stab [52 polys, 80 verts] 'm'
+		Stab2 [52 polys, 80 verts] 'm'
+		Nozzles2 [576 polys, 640 verts] 'm_ns'
+		Fin1 [88 polys, 86 verts] 'm', AnimationID: 1 
+		Fin4 [88 polys, 86 verts] 'm', AnimationID: 1 
+		Fin2 [88 polys, 86 verts] 'm', AnimationID: 1 
+		Fin3 [88 polys, 86 verts] 'm', AnimationID: 1 
+
+
+Num Nodes: 14
+Total:    (2698 polys, 2762 verts)
+Mesh Max: (756 polys, 640 verts)
+
+2 Materials:
+ (  1) m:
+       betab-500sh.bmp
+ (  2) m_ns:
+       BETAB-500Sh.bmp
+
+2 Textures:
+betab-500sh.bmp
+BETAB-500Sh.bmp
+
+Points
+
+Extents

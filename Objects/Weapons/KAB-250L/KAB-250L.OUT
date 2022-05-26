@@ -1,0 +1,18 @@
+	Seeker (287 polys, 861 verts) '03 - Default'
+	Body (840 polys, 2520 verts) '03 - Default'
+	fins (60 polys, 180 verts) '03 - Default'
+	fins2 (60 polys, 180 verts) '03 - Default'
+	Wings1 (60 polys, 180 verts) '03 - Default'
+	Wings2 (60 polys, 180 verts) '03 - Default'
+
+
+Num Nodes: 6
+Total:    (1367 polys, 4101 verts)
+Mesh Max: (840 polys, 2520 verts)
+
+1 Materials:
+ (  1) 03 - Default:
+       KAB-250L.bmp
+
+1 Textures:
+KAB-250L.bmp

@@ -1,0 +1,32 @@
+	GunPod (956 polys, 2868 verts) '03 - Default'
+	wing1 (20 polys, 60 verts) '03 - Default'
+	wing2 (20 polys, 60 verts) '03 - Default'
+	Mount_elem (160 polys, 480 verts) '03 - Default'
+	Balka (440 polys, 1320 verts) '03 - Default'
+	Mount2 (352 polys, 1056 verts) '03 - Default'
+	Mount1 (352 polys, 1056 verts) '03 - Default'
+	Mount_H (76 polys, 228 verts) '03 - Default'
+	Mount_H2 (76 polys, 228 verts) '03 - Default'
+	Gsh23_1 (160 polys, 480 verts) '03 - Default'
+	Gun_base (160 polys, 480 verts) '03 - Default'
+	Gsh23_2 (160 polys, 480 verts) '03 - Default'
+	Gsh23_03 (160 polys, 480 verts) '03 - Default'
+	Gsh23_04 (160 polys, 480 verts) '03 - Default'
+	Gsh23_05 (160 polys, 480 verts) '03 - Default'
+	Gsh23_06 (160 polys, 480 verts) '03 - Default'
+	Gun_ax (160 polys, 480 verts) '03 - Default'
+	Gun_Tube (160 polys, 480 verts) '03 - Default'
+	Gun_Tube2 (160 polys, 480 verts) '03 - Default'
+	Gun_Tube3 (160 polys, 480 verts) '03 - Default'
+
+
+Num Nodes: 20
+Total:    (4212 polys, 12636 verts)
+Mesh Max: (956 polys, 2868 verts)
+
+1 Materials:
+ (  1) 03 - Default:
+       sppu-6.bmp
+
+1 Textures:
+sppu-6.bmp

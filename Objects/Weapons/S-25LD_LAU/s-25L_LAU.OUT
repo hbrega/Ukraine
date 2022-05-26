@@ -1,0 +1,21 @@
+	Cylinder02 [1440 polys, 4320 verts (decal)] '15 - Default'
+		Box01 [20 polys, 60 verts (decal)] '15 - Default'
+		wing2 [12 polys, 36 verts (decal)] '15 - Default'
+		wing1 [12 polys, 36 verts (decal)] '15 - Default'
+		R_cover [76 polys, 228 verts (decal)] '15 - Default'
+
+
+Num Nodes: 5
+Total:    (1560 polys, 4680 verts)
+Mesh Max: (1440 polys, 4320 verts)
+
+1 Materials:
+ (  1) 15 - Default:
+       S-25LAU.bmp
+
+1 Textures:
+S-25LAU.bmp
+
+Points
+
+Extents

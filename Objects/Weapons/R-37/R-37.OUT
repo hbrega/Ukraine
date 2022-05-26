@@ -1,0 +1,43 @@
+	Fuselage (252 polys, 756 verts) '01 - Skin'
+		Main_Fin (12 polys, 36 verts) '01 - Skin'
+			Main_Fin_Fix03 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix02 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix01 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix (8 polys, 24 verts) '01 - Skin'
+		Rear_Fin (276 polys, 828 verts) '01 - Skin'
+		Rear_Fin01 (276 polys, 828 verts) '01 - Skin'
+		Rear_Fin02 (276 polys, 828 verts) '01 - Skin'
+		Rear_Fin03 (276 polys, 828 verts) '01 - Skin'
+		Main_Fin01 (12 polys, 36 verts) '01 - Skin'
+			Main_Fin_Fix04 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix05 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix06 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix07 (8 polys, 24 verts) '01 - Skin'
+		Main_Fin02 (12 polys, 36 verts) '01 - Skin'
+			Main_Fin_Fix08 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix09 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix10 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix11 (8 polys, 24 verts) '01 - Skin'
+		Main_Fin03 (12 polys, 36 verts) '01 - Skin'
+			Main_Fin_Fix12 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix13 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix14 (8 polys, 24 verts) '01 - Skin'
+			Main_Fin_Fix15 (8 polys, 24 verts) '01 - Skin'
+		Avionics (24 polys, 72 verts) '01 - Skin'
+			Igniter (12 polys, 36 verts) '01 - Skin'
+		Fuze_Aerial03 (40 polys, 120 verts) '01 - Skin'
+		Fuze_Aerial02 (40 polys, 120 verts) '01 - Skin'
+		Fuze_Aerial01 (40 polys, 120 verts) '01 - Skin'
+		Fuze_Aerial (40 polys, 120 verts) '01 - Skin'
+
+
+Num Nodes: 31
+Total:    (1728 polys, 5184 verts)
+Mesh Max: (276 polys, 828 verts)
+
+1 Materials:
+ (  1) 01 - Skin:
+       R-37.bmp
+
+1 Textures:
+R-37.bmp

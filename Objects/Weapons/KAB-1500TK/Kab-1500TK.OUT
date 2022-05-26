@@ -1,0 +1,22 @@
+	wings2 (64 polys, 192 verts) '02 - Default'
+	body (560 polys, 1680 verts) '02 - Default'
+	Wings (64 polys, 192 verts) '02 - Default'
+	Fins (12 polys, 36 verts) '02 - Default'
+	Fins2 (12 polys, 36 verts) '02 - Default'
+	Fins3 (12 polys, 36 verts) '02 - Default'
+	Fins4 (12 polys, 36 verts) '02 - Default'
+	Mount1 (352 polys, 1056 verts) '02 - Default'
+	Mount2 (352 polys, 1056 verts) '02 - Default'
+	wings3 (64 polys, 192 verts) '02 - Default'
+
+
+Num Nodes: 10
+Total:    (1504 polys, 4512 verts)
+Mesh Max: (560 polys, 1680 verts)
+
+1 Materials:
+ (  1) 02 - Default:
+       KAB-1500KR.bmp
+
+1 Textures:
+KAB-1500KR.bmp

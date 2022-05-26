@@ -1,0 +1,25 @@
+	Body [892 polys, 895 verts] 'm'
+		ring [336 polys, 352 verts] 'm'
+		Fins [96 polys, 188 verts] 'm'
+		lug2 [92 polys, 110 verts] 'm'
+		lug1 [92 polys, 110 verts] 'm'
+		VDV_fuze [152 polys, 217 verts] 'm'
+		VDV_fuze2 [152 polys, 217 verts] 'm'
+
+
+Num Nodes: 7
+Total:    (1812 polys, 2089 verts)
+Mesh Max: (892 polys, 895 verts)
+
+1 Materials:
+ (  1) m:
+       Specular=0.30, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.00
+       FAB-500-M54.bmp
+
+1 Textures:
+FAB-500-M54.bmp
+
+Points
+
+Extents

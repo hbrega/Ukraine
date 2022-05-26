@@ -1,0 +1,32 @@
+	Body [516 polys, 485 verts] 'Body'
+		ring [176 polys, 184 verts] 'Body'
+		Fins [56 polys, 72 verts] 'Body'
+		ring2 [160 polys, 168 verts] 'Body'
+		VDV_fuze [152 polys, 217 verts] 'Body'
+		Fins2 [56 polys, 72 verts] 'Body'
+		Fins3 [56 polys, 72 verts] 'Body'
+		Nose [288 polys, 200 verts] 'Body_ns'
+		Bugel2 [120 polys, 126 verts] 'Body_ns'
+			Bug_b_2 [64 polys, 100 verts] 'Body_ns'
+			lug2 [72 polys, 70 verts] 'Body_ns'
+		Bugel1 [120 polys, 126 verts] 'Body_ns'
+			Bug_b_1 [108 polys, 160 verts] 'Body_ns'
+			lug1 [72 polys, 70 verts] 'Body_ns'
+
+
+Num Nodes: 14
+Total:    (2016 polys, 2122 verts)
+Mesh Max: (516 polys, 485 verts)
+
+2 Materials:
+ (  1) Body:
+       RBK-250-AZh-2.bmp
+ (  2) Body_ns:
+       RBK-250-AZh-2.bmp
+
+1 Textures:
+RBK-250-AZh-2.bmp
+
+Points
+
+Extents

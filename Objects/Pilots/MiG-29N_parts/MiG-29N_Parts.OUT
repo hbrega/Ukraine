@@ -1,0 +1,24 @@
+	Refuelprobe [148 polys, 219 verts] 'Material #164'
+		RefuelProbe_01 [84 polys, 64 verts] 'Material #164'
+		Nozzle [358 polys, 312 verts] 'Material #164'
+			Nozzle_Blank [888 polys, 529 verts] 'Material #165'
+
+
+Num Nodes: 4
+Total:    (1478 polys, 1124 verts)
+Mesh Max: (888 polys, 529 verts)
+
+2 Materials:
+ (  1) Material #164:
+       MiG-29N_Parts.bmp
+ (  2) Material #165:
+       Specular=0.40, Glossiness=0.26, Color:<229,229,229>
+       Reflection=0.00
+       MiG-29N_Parts.bmp
+
+1 Textures:
+MiG-29N_Parts.bmp
+
+Points
+
+Extents

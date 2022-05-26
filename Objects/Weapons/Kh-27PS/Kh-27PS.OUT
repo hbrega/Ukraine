@@ -1,0 +1,25 @@
+	Body [840 polys, 2520 verts (decal)] '01 - Default'
+		Fin_1 [28 polys, 84 verts (decal)] '01 - Default'
+		Fin_2 [28 polys, 84 verts (decal)] '01 - Default'
+		Fin_03 [28 polys, 84 verts (decal)] '01 - Default'
+		Fin_04 [28 polys, 84 verts (decal)] '01 - Default'
+		Wings [40 polys, 120 verts (decal)] '01 - Default'
+		Soplo [352 polys, 1056 verts (decal)] '01 - Default'
+		Box01 [808 polys, 2424 verts (decal)] '01 - Default'
+		Soplo01 [352 polys, 1056 verts (decal)] '01 - Default'
+
+
+Num Nodes: 9
+Total:    (2504 polys, 7512 verts)
+Mesh Max: (840 polys, 2520 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       Kh27PS.bmp
+
+1 Textures:
+Kh27PS.bmp
+
+Points
+
+Extents

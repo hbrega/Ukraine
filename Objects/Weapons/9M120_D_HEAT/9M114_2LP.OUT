@@ -1,0 +1,25 @@
+	Launch Pod (1040 polys, 3120 verts) '02 - Default'
+	Mount1 (160 polys, 480 verts) '02 - Default'
+	Mount2 (160 polys, 480 verts) '02 - Default'
+	Mount4 (12 polys, 36 verts) '02 - Default'
+	Mount3 (12 polys, 36 verts) '02 - Default'
+	Launch Pod2 (1040 polys, 3120 verts) '02 - Default'
+	Mount05 (160 polys, 480 verts) '02 - Default'
+	Mount06 (160 polys, 480 verts) '02 - Default'
+	Mount07 (12 polys, 36 verts) '02 - Default'
+	Mount08 (12 polys, 36 verts) '02 - Default'
+	Balka2 (216 polys, 648 verts) '02 - Default'
+	Balka3 (216 polys, 648 verts) '02 - Default'
+	Balka20 (12 polys, 36 verts) '02 - Default'
+
+
+Num Nodes: 13
+Total:    (3212 polys, 9636 verts)
+Mesh Max: (1040 polys, 3120 verts)
+
+1 Materials:
+ (  1) 02 - Default:
+       9M120_LP.bmp
+
+1 Textures:
+9M120_LP.bmp

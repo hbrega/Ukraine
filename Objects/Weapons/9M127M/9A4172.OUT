@@ -1,0 +1,22 @@
+	body (1416 polys, 4248 verts) '02 - Default'
+	stab (28 polys, 84 verts) '02 - Default'
+	Tube (160 polys, 480 verts) '02 - Default'
+	fin3 (52 polys, 156 verts) '02 - Default'
+	fin4 (52 polys, 156 verts) '02 - Default'
+	stab2 (28 polys, 84 verts) '02 - Default'
+	stab3 (28 polys, 84 verts) '02 - Default'
+	stab4 (28 polys, 84 verts) '02 - Default'
+	Fin1 (52 polys, 156 verts) '02 - Default'
+	Fin2 (52 polys, 156 verts) '02 - Default'
+
+
+Num Nodes: 10
+Total:    (1896 polys, 5688 verts)
+Mesh Max: (1416 polys, 4248 verts)
+
+1 Materials:
+ (  1) 02 - Default:
+       9A4172.bmp
+
+1 Textures:
+9A4172.bmp

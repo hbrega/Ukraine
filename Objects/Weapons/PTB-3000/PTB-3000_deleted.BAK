@@ -1,0 +1,19 @@
+[WeaponData]
+ObjectFullName=PTB-3000-ltr Drop Tank
+ObjectDataFile=PTB-3000_Data.INI
+
+[LOD001]
+Filename=PTB-3000.LOD
+Distance=2000
+
+[Shadow]
+CastShadow=TRUE
+ShadowCastDist=2000
+MaxVisibleDistance=100
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+[WeaponData]
+ObjectFullName=PTB-450 450 Ltrs. Fuel Tank
+ObjectDataFile=PTB-450_data.INI
+
+
+
+[Shadow]
+CastShadow=TRUE
+ShadowCastDist=10000
+MaxVisibleDistance=400

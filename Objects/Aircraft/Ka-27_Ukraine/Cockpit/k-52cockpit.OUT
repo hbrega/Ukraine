@@ -1,0 +1,33 @@
+	de_02 (8 polys, 24 verts) '02 - Default'
+	de_01 (8 polys, 24 verts) '03 - Default'
+	iz_02 (8 polys, 24 verts) '02 - Default'
+	iz_01 (8 polys, 24 verts) '03 - Default'
+	glass (80 polys, 240 verts) '05 - Default'
+	cockpit (1742 polys, 5226 verts) '01 - Default'
+	hudtga (36 polys, 108 verts) '04 - Default'
+
+
+Num Nodes: 7
+Total:    (1890 polys, 5670 verts)
+Mesh Max: (1742 polys, 5226 verts)
+
+5 Materials:
+ (  1) 02 - Default:
+       radar.bmp
+ (  2) 03 - Default:
+       tv.bmp
+ (  3) 05 - Default:
+       Transparency enabled
+       ka52_gl.tga
+ (  4) 01 - Default:
+       ka52_02.bmp
+ (  5) 04 - Default:
+       Transparency enabled
+       ka52_aL.tga
+
+5 Textures:
+radar.bmp
+tv.bmp
+ka52_gl.tga
+ka52_02.bmp
+ka52_aL.tga

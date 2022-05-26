@@ -1,0 +1,21 @@
+	RotaiaExt01 [28 polys, 36 verts] '02 - Default'
+	PiloneExt01 [124 polys, 123 verts] '02 - Default'
+	PiloneExt02 [124 polys, 123 verts] '02 - Default'
+	RotaiaExt02 [28 polys, 36 verts] '02 - Default'
+	DorsalExtension [8 polys, 12 verts] '02 - Default'
+
+
+Num Nodes: 5
+Total:    (312 polys, 330 verts)
+Mesh Max: (124 polys, 123 verts)
+
+1 Materials:
+ (  1) 02 - Default:
+       MiG-19S_Late_mod.bmp
+
+1 Textures:
+MiG-19S_Late_mod.bmp
+
+Points
+
+Extents

@@ -1,0 +1,17 @@
+	Hull (116 polys, 348 verts) '01 - Default'
+		Tower (44 polys, 132 verts) '01 - Default'
+			Periscope (176 polys, 528 verts) '01 - Default'
+				Glass (12 polys, 36 verts) '02 - Default'
+
+
+Num Nodes: 4
+Total:    (348 polys, 1044 verts)
+Mesh Max: (176 polys, 528 verts)
+
+2 Materials:
+ (  1) 01 - Default:
+       <No Texture>
+ (  2) 02 - Default:
+       <No Texture>
+
+0 Textures:

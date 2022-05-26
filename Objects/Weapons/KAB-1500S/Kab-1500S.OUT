@@ -1,0 +1,21 @@
+	F_fins (64 polys, 192 verts) '01 - Default'
+	Body (384 polys, 1152 verts) '01 - Default'
+	Wings (64 polys, 192 verts) '01 - Default'
+	Fins (12 polys, 36 verts) '01 - Default'
+	Fins2 (12 polys, 36 verts) '01 - Default'
+	Fins3 (12 polys, 36 verts) '01 - Default'
+	Fins4 (12 polys, 36 verts) '01 - Default'
+	Mount1 (352 polys, 1056 verts) '01 - Default'
+	Mount2 (352 polys, 1056 verts) '01 - Default'
+
+
+Num Nodes: 9
+Total:    (1264 polys, 3792 verts)
+Mesh Max: (384 polys, 1152 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       kab-1500s.bmp
+
+1 Textures:
+kab-1500s.bmp

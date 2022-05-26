@@ -1,0 +1,71 @@
+[DefaultCallsign]
+Astrakhan
+Kaluga
+Novgorod
+Sverdlovsk
+Yaroslavl
+
+[CallsignSet001]
+Berezina
+Borodino
+Eylau
+Kaunas
+Vyazma
+
+[CallsignSet002]
+Bagration
+Barclay
+Kutuzov
+Suvorov
+Tolstoi
+
+[CallsignSet003]
+Borodin
+Khachaturian
+Rachmaninov
+Stravinsky
+Tchaikovsky
+
+[CallsignSet004]
+Chekhov
+Dostoyevsky
+Gorky
+Pushkin
+Tolstoy
+
+[CallsignSet005]
+Bennigsen
+Brusilov
+Nevsky
+Potemkin
+Samsonov
+
+[CallsignSet006]
+Astrakhan
+Kuban
+Odessa
+Poltava
+Sevastopol
+
+[GroundCallsign]
+Dmitry 47
+Evgeni 77
+Grigori 88
+Igor 45
+Konstantin 52
+Mikhail 83
+Nikita 90
+Pavel 34
+Sergei 68
+Timofei 61
+Vasili 14
+Vladimir 29
+
+[ReconCallsign]
+Zorki
+
+[FACCallsign]
+Perun
+
+[TACCCallsign]
+Stavka

@@ -1,0 +1,23 @@
+	Box01 (304 polys, 912 verts) '03 - Default'
+		Box03 (12 polys, 36 verts) '03 - Default'
+		Box02 (12 polys, 36 verts) '03 - Default'
+		Plane03 (25 polys, 75 verts) '03 - Default'
+		Cylinder01 (44 polys, 132 verts) '03 - Default'
+		Cylinder03 (36 polys, 108 verts) '03 - Default'
+		Cylinder04 (44 polys, 132 verts) '03 - Default'
+		Cylinder05 (36 polys, 108 verts) '03 - Default'
+		Plane04 (25 polys, 75 verts) '03 - Default'
+		Box04 (12 polys, 36 verts) '03 - Default'
+		Box05 (12 polys, 36 verts) '03 - Default'
+
+
+Num Nodes: 11
+Total:    (562 polys, 1686 verts)
+Mesh Max: (304 polys, 912 verts)
+
+1 Materials:
+ (  1) 03 - Default:
+       sj4.bmp
+
+1 Textures:
+sj4.bmp

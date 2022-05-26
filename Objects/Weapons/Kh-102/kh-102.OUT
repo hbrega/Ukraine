@@ -1,0 +1,21 @@
+	Stab1 (128 polys, 384 verts) '01 - Default'
+	Tail2 (36 polys, 108 verts) '01 - Default'
+	Wing02 (108 polys, 324 verts) '01 - Default'
+	body (2958 polys, 8874 verts) '01 - Default'
+	Engine_ (440 polys, 1320 verts) '01 - Default'
+	Stab3 (36 polys, 108 verts) '01 - Default'
+	Stab2 (36 polys, 108 verts) '01 - Default'
+	wing01 (108 polys, 324 verts) '01 - Default'
+	Pylon_e (22 polys, 66 verts) '01 - Default'
+
+
+Num Nodes: 9
+Total:    (3872 polys, 11616 verts)
+Mesh Max: (2958 polys, 8874 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       kh-102.bmp
+
+1 Textures:
+kh-102.bmp

@@ -1,0 +1,22 @@
+	Body [716 polys, 607 verts] '13 - Default'
+		Wing1 [36 polys, 48 verts] '13 - Default'
+		Wing2 [36 polys, 48 verts] '13 - Default'
+		lug02 [92 polys, 110 verts] '13 - Default'
+		lug01 [92 polys, 110 verts] '13 - Default'
+		Wing3 [28 polys, 50 verts] '13 - Default'
+
+
+Num Nodes: 6
+Total:    (1000 polys, 973 verts)
+Mesh Max: (716 polys, 607 verts)
+
+1 Materials:
+ (  1) 13 - Default:
+       ZB-500.bmp
+
+1 Textures:
+ZB-500.bmp
+
+Points
+
+Extents

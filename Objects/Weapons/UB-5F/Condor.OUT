@@ -1,0 +1,25 @@
+	Wings (104 polys, 312 verts) '03 - Default'
+	Stab_s (56 polys, 168 verts) '03 - Default'
+	Stab (60 polys, 180 verts) '03 - Default'
+	Body (840 polys, 2520 verts) '03 - Default'
+	Stab_sh (192 polys, 576 verts) '03 - Default'
+	Stab_sh01 (192 polys, 576 verts) '03 - Default'
+	Stab_ss (192 polys, 576 verts) '03 - Default'
+	Antenna (192 polys, 576 verts) '03 - Default'
+	Antenna01 (192 polys, 576 verts) '03 - Default'
+	Antenna02 (192 polys, 576 verts) '03 - Default'
+	Antenna03 (192 polys, 576 verts) '03 - Default'
+	Stab_ss01 (192 polys, 576 verts) '03 - Default'
+	Pylon_k (270 polys, 810 verts) '03 - Default'
+
+
+Num Nodes: 13
+Total:    (2866 polys, 8598 verts)
+Mesh Max: (840 polys, 2520 verts)
+
+1 Materials:
+ (  1) 03 - Default:
+       Condor.bmp
+
+1 Textures:
+Condor.bmp

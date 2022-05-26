@@ -1,0 +1,24 @@
+	NoseTF [228 polys, 166 verts] '01 - Default'
+	Irst [124 polys, 104 verts] '01 - Default'
+	IrstGlass [60 polys, 64 verts] '02 - Default'
+	Pitot [174 polys, 124 verts] '01 - Default'
+	BladeAntenna01 [16 polys, 22 verts] '01 - Default'
+	TopAntenna [16 polys, 22 verts] '01 - Default'
+
+
+Num Nodes: 6
+Total:    (618 polys, 502 verts)
+Mesh Max: (228 polys, 166 verts)
+
+2 Materials:
+ (  1) 01 - Default:
+       TF-104G_Model.bmp
+ (  2) 02 - Default:
+       TF-104G_Model.bmp
+
+1 Textures:
+TF-104G_Model.bmp
+
+Points
+
+Extents

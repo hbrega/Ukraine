@@ -1,0 +1,19 @@
+	mesh05 (28 polys, 84 verts) '3 - Default'
+	FlightDeck (173 polys, 519 verts) '1 - Default'
+	Hull (2059 polys, 6177 verts) '1 - Default'
+		Radar1 (8 polys, 24 verts) '8 - Default'
+		Radar2 (34 polys, 102 verts) '7 - Default'
+			RadarTop2 (10 polys, 30 verts) '1 - Default'
+		Radar3 (34 polys, 102 verts) '7 - Default'
+			RadarTop1 (10 polys, 30 verts) '1 - Default'
+		Turret (380 polys, 1140 verts) '1 - Default'
+			Gun (56 polys, 168 verts) '1 - Default'
+		Superstructure (1362 polys, 4086 verts) '1 - Default'
+		mesh06 (112 polys, 336 verts) '1 - Default'
+		mesh15 (840 polys, 2520 verts) '1 - Default'
+	mesh14 (460 polys, 1380 verts) '1 - Default'
+	mesh02 (38 polys, 114 verts) '2 - Default'
+
+
+Total:    (5604 polys, 16812 verts)
+Mesh Max: (2059 polys, 6177 verts)

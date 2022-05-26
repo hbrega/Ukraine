@@ -1,0 +1,20 @@
+
+* Flatface Nodes *
+
+Chassis
+Cab
+Lamps
+Fender
+FuelTanks
+Axles
+Wheels
+RadarCab
+SpareWheel
+Mast
+Radar01
+Radar02
+Trailer
+Mast02
+Mast01
+Wheels01
+

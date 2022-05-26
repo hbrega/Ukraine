@@ -1,0 +1,17 @@
+	LOD0_hull (1456 polys, 4368 verts) '14 - Default'
+		Rectangle02 (12 polys, 36 verts) '14 - Default'
+		Rectangle07 (12 polys, 36 verts) '14 - Default'
+		Rectangle01 (12 polys, 36 verts) '14 - Default'
+		Rectangle05 (12 polys, 36 verts) '14 - Default'
+
+
+Num Nodes: 5
+Total:    (1504 polys, 4512 verts)
+Mesh Max: (1456 polys, 4368 verts)
+
+1 Materials:
+ (  1) 14 - Default:
+       KAB1500L.bmp
+
+1 Textures:
+KAB1500L.bmp

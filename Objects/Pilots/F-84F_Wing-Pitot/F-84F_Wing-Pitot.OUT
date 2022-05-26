@@ -1,0 +1,17 @@
+	F-84_Pitot (160 polys, 480 verts) '19 - Default'
+		Pitot (72 polys, 216 verts) '20 - Default'
+
+
+Num Nodes: 2
+Total:    (232 polys, 696 verts)
+Mesh Max: (160 polys, 480 verts)
+
+2 Materials:
+ (  1) 19 - Default:
+       F-84F_Wing-Pitot.bmp
+ (  2) 20 - Default:
+       Reflection=0.24
+       F-84F_Wing-Pitot.bmp
+
+1 Textures:
+F-84F_Wing-Pitot.bmp

@@ -1,0 +1,23 @@
+	9K113 (246 polys, 738 verts) '01 - Default'
+		Cylinder01 (68 polys, 204 verts) '01 - Default'
+		wing02 (12 polys, 36 verts) '01 - Default'
+		wing01 (12 polys, 36 verts) '01 - Default'
+		wing03 (12 polys, 36 verts) '01 - Default'
+		wing04 (12 polys, 36 verts) '01 - Default'
+		Line01 (20 polys, 60 verts) '01 - Default'
+		Line02 (20 polys, 60 verts) '01 - Default'
+		warhead (268 polys, 804 verts) '01 - Default'
+			Box01 (16 polys, 48 verts) '01 - Default'
+			Box02 (16 polys, 48 verts) '01 - Default'
+
+
+Num Nodes: 11
+Total:    (702 polys, 2106 verts)
+Mesh Max: (268 polys, 804 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       9k114_missile.bmp
+
+1 Textures:
+9k114_missile.bmp

@@ -1,0 +1,53 @@
+	Chassis (37 polys, 111 verts) 'Standard_1'
+		Back (22 polys, 66 verts) 'Standard_5'
+		cab (6 polys, 18 verts) 'Standard_2'
+		driverb (2 polys, 6 verts) 'Standard_2'
+		flap (20 polys, 60 verts) 'Standard_2'
+		Front (30 polys, 90 verts) 'Standard_6'
+		intera (2 polys, 6 verts) 'Standard_2'
+		interc (2 polys, 6 verts) 'Standard_2'
+		roofc (121 polys, 363 verts) 'Standard_7'
+		seals (42 polys, 126 verts) 'Standard_2'
+		Tire1 (68 polys, 204 verts) 'Standard_4'
+		Tire2 (68 polys, 204 verts) 'Standard_4'
+		Tire3 (68 polys, 204 verts) 'Standard_4'
+		Tire4 (68 polys, 204 verts) 'Standard_4'
+		Tire5 (68 polys, 204 verts) 'Standard_4'
+		Tire6 (68 polys, 204 verts) 'Standard_4'
+		Tire7 (68 polys, 204 verts) 'Standard_4'
+		Tire8 (68 polys, 204 verts) 'Standard_4'
+		tub (30 polys, 90 verts) 'Standard_1'
+		wells (66 polys, 198 verts) 'Standard_2'
+		Launcher (208 polys, 624 verts) 'Standard_3'
+			Cage (120 polys, 360 verts) 'Standard_3'
+		sides (172 polys, 516 verts) 'Standard_2'
+
+
+Num Nodes: 23
+Total:    (1424 polys, 4272 verts)
+Mesh Max: (208 polys, 624 verts)
+
+7 Materials:
+ (  1) Standard_1:
+       Green.bmp
+ (  2) Standard_5:
+       Back.bmp
+ (  3) Standard_2:
+       Sides.bmp
+ (  4) Standard_6:
+       Front.bmp
+ (  5) Standard_7:
+       Top.bmp
+ (  6) Standard_4:
+       Wheel.bmp
+ (  7) Standard_3:
+       DarkMetal.bmp
+
+7 Textures:
+Green.bmp
+Back.bmp
+Sides.bmp
+Front.bmp
+Top.bmp
+Wheel.bmp
+DarkMetal.bmp

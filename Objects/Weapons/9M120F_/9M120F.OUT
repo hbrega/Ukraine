@@ -1,0 +1,19 @@
+	Body (840 polys, 2520 verts) '02 - Default'
+	Fin1 (100 polys, 300 verts) '02 - Default'
+	Fin2 (100 polys, 300 verts) '02 - Default'
+	wing1 (42 polys, 126 verts) '02 - Default'
+	wing2 (42 polys, 126 verts) '02 - Default'
+	wing3 (42 polys, 126 verts) '02 - Default'
+	wing4 (42 polys, 126 verts) '02 - Default'
+
+
+Num Nodes: 7
+Total:    (1208 polys, 3624 verts)
+Mesh Max: (840 polys, 2520 verts)
+
+1 Materials:
+ (  1) 02 - Default:
+       9m120.bmp
+
+1 Textures:
+9m120.bmp

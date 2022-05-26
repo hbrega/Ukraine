@@ -1,0 +1,17 @@
+[WeaponData]
+ObjectFullName=R-37 AA-13 Arrow
+ObjectDataFile=R-37_data.INI
+
+[LOD001]
+Filename=R33.lod
+Distance=75
+
+[LOD002]
+Filename=R33_lod001.lod
+Distance=1500
+
+[Shadow]
+CastShadow=TRUE
+ShadowCastDist=2000
+MaxVisibleDistance=100
+

@@ -1,0 +1,21 @@
+	AftFin04 (180 polys, 540 verts) '03 - Default'
+	AftFin03 (180 polys, 540 verts) '03 - Default'
+	AftFin02 (180 polys, 540 verts) '03 - Default'
+	AftFin01 (180 polys, 540 verts) '03 - Default'
+	Body (840 polys, 2520 verts) '03 - Default'
+	Fin04 (12 polys, 36 verts) '03 - Default'
+	Fin03 (12 polys, 36 verts) '03 - Default'
+	Fin02 (12 polys, 36 verts) '03 - Default'
+	Fin01 (12 polys, 36 verts) '03 - Default'
+
+
+Num Nodes: 9
+Total:    (1608 polys, 4824 verts)
+Mesh Max: (840 polys, 2520 verts)
+
+1 Materials:
+ (  1) 03 - Default:
+       R77M.bmp
+
+1 Textures:
+R77M.bmp

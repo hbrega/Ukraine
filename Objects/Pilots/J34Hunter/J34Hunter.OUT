@@ -1,0 +1,20 @@
+	LeftPylon [76 polys, 126 verts] 'material_00'
+	LeftRail [102 polys, 96 verts] 'material_00'
+	RightPylon [76 polys, 126 verts] 'material_00'
+	RightRail [102 polys, 96 verts] 'material_00'
+
+
+Num Nodes: 4
+Total:    (356 polys, 444 verts)
+Mesh Max: (102 polys, 126 verts)
+
+1 Materials:
+ (  1) material_00:
+       J34Hunter.bmp
+
+1 Textures:
+J34Hunter.bmp
+
+Points
+
+Extents
