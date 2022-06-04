@@ -1,0 +1,102 @@
+114th Tactical Aviation Brigade (MiG-29)
+ 1st Aviation Squadron
+ 2nd Aviation Squadron
+
+
+40th Tactical Aviation Brigade (MiG-29)
+ 1st Aviation Squadron
+ 2st Aviation Squadron
+
+
+204th Tactical Aviation Brigade (MiG-29)
+ 1st Aviation Squadron
+ 2st Aviation Squadron
+
+
+39th Tactical Aviation Brigade (Fighter),[80] Ozerne Air Base (Su-27)
+ 39th Separate Squadron of Tactical Aviation 
+ 9th Fighter Aviation Regiment
+
+
+831st Tactical Aviation Brigade (Fighter), Myrhorod Air Base (Su-27)
+ 1st Aviation Squadron
+* 2nd Aviation Squadron
+
+
+299th Tactical Aviation Brigade (Ground Attack) "Lt.-Gen. Vasil' Nikiforov", Kulbakino Air Base (Su-25)
+ 1st Aviation Squadron
+ 2nd Aviation Squadron
+ 3rd Aviation Squadron
+
+
+7th Tactical Aviation Brigade (Bomber-Recon) "Petro Franko", Starokostiantyniv Air Base (Su-24M, Su-24MR, L-39C)
+ 1st Aviation Squadron
+ 2nd Aviation Squadron
+ 3rd Aviation Squadron (recon)
+
+
+383rd UAV Aviation Regiment, Khmelnitsky (Bayraktar TB2)
+10th Naval UAV Squadron
+
+
+10th Naval Aviation Brigade
+  Naval Helicopter Squadron (Ka-27, Ka-29, Mi-14PL/PS, Mil Mi-8MSB-V, Mi-9, Mi-2MSB-V, Kamov Ka-226)
+
+
+203rd Training Aviation Brigade (MU А4104), Chuhuiv Air Base & Komunar Airbase, Kharkiv Oblast (L-39C, An-26, Mi-8T)
+
+
+25th Transport Aviation Brigade, Melitopol Air Base (An-26, Il-76MD)
+
+
+456th Guards Transport Aviation Brigade, Vinnytsia Airport (An-24B, An-26, Mi-8)
+
+
+
+
+
+Cambios Mapeado!
+FOB Luzniki
+
+
+
+
+MissionChance[SWEEP]=
+MissionChance[CAP]=
+MissionChance[INTERCEPT]=
+MissionChance[ESCORT]=
+MissionChance[STRIKE]
+MissionChance[CAS]=
+MissionChance[SEAD]=
+MissionChance[ARMED_RECON]=
+MissionChance[ANTI_SHIP]=
+MissionChance[RECON]=
+MissionChance[NAVAL_SEARCH]=
+MissionChance[NAVAL_ATTACK]=
+MissionChance[ESCORT_JAMMER]=
+MissionChance[ESCORT_DECOY]=
+MissionChance[CRUISE_MISSILE]=
+MissionChance[EARLY_WARNING]=
+
+
+
+SMALL_RUNWAY
+MEDIUM_RUNWAY
+LARGE_RUNWAY
+WAREHOUSE
+POWER_PLANT
+AMMO_STORAGE
+COMM_BUILDING
+COMMAND_BUILDING
+FUEL_STORAGE
+RAIL_STATION
+PATROL_BOAT
+WARSHIP
+CARGO_SHIP
+OIL_REFINERY
+ARTILLERY
+STATIC_AAA
+MOBILE_AAA
+BRIDGE
+MISC
+ANY
