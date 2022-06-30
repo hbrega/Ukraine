@@ -1,0 +1,19 @@
+	Body [1392 polys, 4176 verts (decal)] '01 - Default'
+		Box01 [164 polys, 492 verts (decal)] '01 - Default'
+		pylon [124 polys, 372 verts (decal)] '01 - Default'
+
+
+Num Nodes: 3
+Total:    (1680 polys, 5040 verts)
+Mesh Max: (1392 polys, 4176 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       SPE-14.bmp
+
+1 Textures:
+SPE-14.bmp
+
+Points
+
+Extents

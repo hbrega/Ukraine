@@ -1,0 +1,25 @@
+	Body [1332 polys, 1272 verts] 'm'
+		Wings [80 polys, 120 verts] 'm'
+		Stab [160 polys, 168 verts] 'm'
+		lug02 [92 polys, 110 verts] 'm'
+		lug01 [92 polys, 110 verts] 'm'
+		VDV_fuze [72 polys, 57 verts] 'm'
+		Chute [420 polys, 1260 verts (animated)] 'm_ns', AnimationID: 1 
+
+
+Num Nodes: 7
+Total:    (2248 polys, 3097 verts)
+Mesh Max: (1332 polys, 1272 verts)
+
+2 Materials:
+ (  1) m:
+       OFAB-250ShL.bmp
+ (  2) m_ns:
+       OFAB-250ShL.bmp
+
+1 Textures:
+OFAB-250ShL.bmp
+
+Points
+
+Extents

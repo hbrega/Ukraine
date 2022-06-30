@@ -1,0 +1,123 @@
+	Bottom (58 polys, 174 verts) '2 - Default'
+		LOD01_su30 (238 polys, 714 verts) '2 - Default'
+		LOD01_su39_1pcockpit_m1-1 (1131 polys, 3393 verts) '2 - Default'
+			Line04 (64 polys, 192 verts) '2 - Defaultg'
+				Rectangle01 (12 polys, 36 verts) '11 - Default'
+				Line02 (28 polys, 84 verts) '11 - Default'
+				Rectangle04 (12 polys, 36 verts) '11 - Default'
+				Plane08 (2 polys, 6 verts) '9 - Default'
+				Plane04 (2 polys, 6 verts) '2 - Defaultg'
+					alt_digT2 (20 polys, 60 verts) '4 - Default'
+					alt_digT1 (20 polys, 60 verts) '4 - Default'
+					alt_dig3 (20 polys, 60 verts) '4 - Default'
+					alt_dig2 (20 polys, 60 verts) '4 - Default'
+					alt_dig1 (20 polys, 60 verts) '4 - Default'
+					AltMeterNe (2 polys, 6 verts) '9 - Default'
+				Plane05 (2 polys, 6 verts) '2 - Defaultg'
+					hsiCompassWheel (56 polys, 168 verts) '8 - Default'
+						Needle01 (8 polys, 24 verts) '9 - Default'
+						Needle02 (8 polys, 24 verts) '9 - Default'
+					hsiCourseDeviationNeedle (32 polys, 96 verts) '9 - Default'
+				Plane06 (12 polys, 36 verts) '9 - Default'
+				Plane07 (2 polys, 6 verts) '8 - Default'
+					LEINSNeed1 (4 polys, 12 verts) '2 - Default'
+				Rectangle11 (60 polys, 180 verts) '11 - Default'
+				Plane09 (2 polys, 6 verts) '8 - Default'
+				Plane10 (2 polys, 6 verts) '2 - Defaultg'
+					Plane19 (4 polys, 12 verts) '7 - Default'
+					Plane18 (4 polys, 12 verts) '2 - Default'
+				Line01 (28 polys, 84 verts) '9 - Default'
+					NGon01 (1 polys, 3 verts) '9 - Default'
+					NGon02 (1 polys, 3 verts) '9 - Default'
+				Plane01 (2 polys, 6 verts) '3 - Default'
+					AoANeedle (4 polys, 12 verts) '2 - Default'
+					accelNeedle (4 polys, 12 verts) '2 - Default'
+				Plane02 (2 polys, 6 verts) '3 - Default'
+					SpeedNeedl (6 polys, 18 verts) '9 - Default'
+						machscale (16 polys, 48 verts) '8 - Default'
+						SpeedNeed0 (6 polys, 18 verts) '9 - Default'
+					Circle01 (29 polys, 87 verts) '8 - Default'
+				Line03 (24 polys, 72 verts) '11 - Default'
+				Plane11 (32 polys, 96 verts) '3 - Default'
+					s (4 polys, 12 verts) '2 - Default'
+					min (4 polys, 12 verts) '2 - Default'
+					h (4 polys, 12 verts) '2 - Default'
+				Box01 (24 polys, 72 verts) '9 - Default'
+				Rectangle08 (60 polys, 180 verts) '11 - Default'
+				Rectangle03 (12 polys, 36 verts) '11 - Default'
+				Plane24 (122 polys, 366 verts) '2 - Defaultg'
+					ADIsphere (528 polys, 1584 verts) '4 - Defaulbt'
+				Plane12 (2 polys, 6 verts) '8 - Default'
+					LEINSNeed2 (4 polys, 12 verts) '2 - Default'
+					SIDESLIPNeedle (4 polys, 12 verts) '7 - Default'
+				Plane03 (2 polys, 6 verts) '3 - Default'
+					LEINSNeed0 (6 polys, 18 verts) '9 - Default'
+					LEINSNeedl (6 polys, 18 verts) '9 - Default'
+				Plane13 (32 polys, 96 verts) '5 - Default'
+					RWR (26 polys, 78 verts) '5 - Default'
+			∂‘œÛ01 (528 polys, 1584 verts) '12 - Default'
+			mirror_cen (21 polys, 63 verts) 'Mirror'
+			mirror_fr0 (21 polys, 63 verts) 'Material #2'
+			mirror_le0 (21 polys, 63 verts) 'Mirror'
+			mirror_lef (21 polys, 63 verts) 'Mirror'
+			mirror_fr1 (21 polys, 63 verts) 'Material #2'
+			mirror_fra (21 polys, 63 verts) 'Material #2'
+			radar (2 polys, 6 verts) '16 - Default'
+			HUDPlane (2 polys, 6 verts) '13 - Default'
+				HUDPlane01 (2 polys, 6 verts) '13 - Default'
+
+
+Num Nodes: 67
+Total:    (3500 polys, 10500 verts)
+Mesh Max: (1131 polys, 3393 verts)
+
+15 Materials:
+ (  1) 2 - Default:
+       Sucp.bmp
+ (  2) 2 - Defaultg:
+       1.bmp
+ (  3) 11 - Default:
+       4.bmp
+ (  4) 9 - Default:
+       su-27_panel.bmp
+ (  5) 4 - Default:
+       figures.bmp
+ (  6) 8 - Default:
+       3.bmp
+ (  7) 7 - Default:
+       vsineedle.bmp
+ (  8) 3 - Default:
+       2.bmp
+ (  9) 4 - Defaulbt:
+       su35_ATTITUDE.bmp
+ ( 10) 5 - Default:
+       SU_RWR.bmp
+ ( 11) 12 - Default:
+       Transparency enabled
+       CanopyGlass.tga
+ ( 12) Mirror:
+       F-4E_MIR.BMP
+ ( 13) Material #2:
+       F-4E_PAN.BMP
+ ( 14) 16 - Default:
+       vb.bmp
+ ( 15) 13 - Default:
+       Transparency enabled
+       Su-27_hud.tga
+
+15 Textures:
+Sucp.bmp
+1.bmp
+4.bmp
+su-27_panel.bmp
+figures.bmp
+3.bmp
+vsineedle.bmp
+2.bmp
+su35_ATTITUDE.bmp
+SU_RWR.bmp
+CanopyGlass.tga
+F-4E_MIR.BMP
+F-4E_PAN.BMP
+vb.bmp
+Su-27_hud.tga
