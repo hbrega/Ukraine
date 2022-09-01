@@ -1,0 +1,33 @@
+	Factory-2 (542 polys, 1626 verts) 'Material #0'
+		Object03 (102 polys, 306 verts) 'Standard_8'
+			Interior (10 polys, 30 verts) 'Standard_3'
+			Object04 (6 polys, 18 verts) 'Standard_9'
+		smoke stack03 (18 polys, 54 verts) 'Standard_13'
+		smoke stack (18 polys, 54 verts) 'Standard_13'
+		Object01 (18 polys, 54 verts) 'Material #0'
+		smoke stack02 (18 polys, 54 verts) 'Standard_13'
+		smoke stack01 (18 polys, 54 verts) 'Standard_13'
+
+
+Num Nodes: 9
+Total:    (750 polys, 2250 verts)
+Mesh Max: (542 polys, 1626 verts)
+
+5 Materials:
+ (  1) Material #0:
+       Factory-2.bmp
+ (  2) Standard_8:
+       Shed02.bmp
+ (  3) Standard_3:
+       Yard Stuff-1.bmp
+ (  4) Standard_9:
+       Truck Building-1.bmp
+ (  5) Standard_13:
+       Yard Stuff.bmp
+
+5 Textures:
+Factory-2.bmp
+Shed02.bmp
+Yard Stuff-1.bmp
+Truck Building-1.bmp
+Yard Stuff.bmp
