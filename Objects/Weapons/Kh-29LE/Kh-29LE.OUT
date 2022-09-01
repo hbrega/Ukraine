@@ -1,0 +1,26 @@
+	Object002 [120 polys, 360 verts (decal)] 'NewMaterial #123'
+		Object001 [136 polys, 408 verts (decal)] 'NewMaterial #123'
+		Object003 [50 polys, 150 verts (decal)] 'NewMaterial #121'
+		Object005 [24 polys, 72 verts (decal)] 'NewMaterial #123'
+		Object006 [28 polys, 84 verts (decal)] 'NewMaterial #123'
+		Object007 [10 polys, 30 verts (decal)] 'NewMaterial #123'
+
+
+Num Nodes: 6
+Total:    (368 polys, 1104 verts)
+Mesh Max: (136 polys, 408 verts)
+
+2 Materials:
+ (  1) NewMaterial #123:
+       Kh-29LE.jpg
+ (  2) NewMaterial #121:
+       Transparency enabled
+       Seeker.TGA
+
+2 Textures:
+Kh-29LE.jpg
+Seeker.TGA
+
+Points
+
+Extents

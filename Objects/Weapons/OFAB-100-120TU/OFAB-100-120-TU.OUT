@@ -1,0 +1,32 @@
+	body [796 polys, 689 verts] 'm'
+		lug [92 polys, 110 verts] 'm'
+		fins [96 polys, 144 verts] 'm'
+		fins2 [32 polys, 64 verts] 'm'
+		ring2 [160 polys, 168 verts] 'm'
+		Chute_container [836 polys, 748 verts] 'm'
+			Chute [420 polys, 1260 verts (animated)] 'm_ns', AnimationID: 1 
+		ring [160 polys, 168 verts] 'm'
+		AVU-ET [104 polys, 91 verts] 'm'
+		AVU-ET2 [104 polys, 91 verts] 'm'
+
+
+Num Nodes: 10
+Total:    (2800 polys, 3533 verts)
+Mesh Max: (836 polys, 1260 verts)
+
+2 Materials:
+ (  1) m:
+       Specular=0.30, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.00
+       OFAB-100-120-TU.bmp
+ (  2) m_ns:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       Reflection=0.00
+       OFAB-100-120-TU.bmp
+
+1 Textures:
+OFAB-100-120-TU.bmp
+
+Points
+
+Extents

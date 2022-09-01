@@ -1,0 +1,28 @@
+	Body [676 polys, 397 verts] 'm'
+		Tube01 [160 polys, 168 verts] 'm'
+		Capsule01 [288 polys, 172 verts] 'm'
+		Fins2 [20 polys, 32 verts] 'm'
+		Stab [160 polys, 168 verts] 'm'
+		Fins1 [28 polys, 44 verts] 'm'
+		lug1 [92 polys, 110 verts] 'm'
+		lug2 [92 polys, 110 verts] 'm'
+		Chute [420 polys, 1260 verts (animated)] '03 - Default', AnimationID: 1 
+		AVU-ET [82 polys, 60 verts] 'm'
+
+
+Num Nodes: 10
+Total:    (2018 polys, 2521 verts)
+Mesh Max: (676 polys, 1260 verts)
+
+2 Materials:
+ (  1) m:
+       OFAB-500U.bmp
+ (  2) 03 - Default:
+       OFAB-500U.bmp
+
+1 Textures:
+OFAB-500U.bmp
+
+Points
+
+Extents

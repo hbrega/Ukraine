@@ -1,0 +1,25 @@
+	Body [1420 polys, 1270 verts] '13 - Default'
+		Wings [136 polys, 172 verts] '13 - Default'
+		Stab [160 polys, 168 verts] '13 - Default'
+		lug1 [92 polys, 110 verts] '13 - Default'
+		lug2 [92 polys, 110 verts] '13 - Default'
+		VDV_fuze [72 polys, 57 verts] '13 - Default'
+		Chute [420 polys, 1260 verts (animated)] '14 - Default', AnimationID: 1 
+
+
+Num Nodes: 7
+Total:    (2392 polys, 3147 verts)
+Mesh Max: (1420 polys, 1270 verts)
+
+2 Materials:
+ (  1) 13 - Default:
+       ODAB-500.bmp
+ (  2) 14 - Default:
+       ODAB-500.bmp
+
+1 Textures:
+ODAB-500.bmp
+
+Points
+
+Extents

@@ -1,0 +1,104 @@
+	Fuselage (2329 polys, 6987 verts) 'Material #127'
+		ChuteCover (100 polys, 300 verts) 'Material #130'
+		Inlets (180 polys, 540 verts) 'Material #127'
+		LeftStab (72 polys, 216 verts) 'Material #130'
+			LeftElevator (135 polys, 405 verts) 'Material #130'
+		LeftWing (437 polys, 1311 verts) 'Desert colour'
+			LeftOuterWing (511 polys, 1533 verts) 'Desert colour'
+				LAB3 (76 polys, 228 verts) 'Desert colour'
+					LAB4 (20 polys, 60 verts) 'Desert colour'
+				LAB2 (76 polys, 228 verts) 'Desert colour'
+					LAB1 (20 polys, 60 verts) 'Desert colour'
+				LeftAileron (87 polys, 261 verts) 'Desert colour'
+				LLights (248 polys, 744 verts) 'Desert colour'
+			LeftFlap2 (12 polys, 36 verts) 'Desert colour'
+			LeftFlap (18 polys, 54 verts) 'Desert colour'
+			LOMR (132 polys, 396 verts) 'Desert colour'
+			LMMR (132 polys, 396 verts) 'Desert colour'
+			LIMR (132 polys, 396 verts) 'Desert colour'
+			LeftWingTankOut (492 polys, 1476 verts) 'Tank'
+			LeftWingTankIn (492 polys, 1476 verts) 'Tank'
+		LMBDoor (164 polys, 492 verts) 'Material #127'
+		LMGear (140 polys, 420 verts) 'Material #127'
+			LMGearStrut (108 polys, 324 verts) 'Material #127'
+				LeftWheel (140 polys, 420 verts) 'Material #127'
+			LMGearDumper (52 polys, 156 verts) 'Material #127'
+			LMGearUpper (52 polys, 156 verts) 'Material #127'
+		LMGFDoor (186 polys, 558 verts) 'Material #127'
+		Nose (1297 polys, 3891 verts) 'Material #126'
+			FBDoor (44 polys, 132 verts) 'Material #127'
+			FFDoor (60 polys, 180 verts) 'Material #126'
+			FGear (96 polys, 288 verts) 'Material #126'
+				FCastor (48 polys, 144 verts) 'Material #126'
+					FStrut (122 polys, 366 verts) 'Material #126'
+						FrontWheel (144 polys, 432 verts) 'Material #126'
+						FGCover (108 polys, 324 verts) 'Material #126'
+							FGCoverStrut (8 polys, 24 verts) 'Material #126'
+			Glass (149 polys, 447 verts) 'Glass'
+			Interior (336 polys, 1008 verts) 'Material #126'
+		RightStab (86 polys, 258 verts) 'Material #130'
+			RightElevator (135 polys, 405 verts) 'Material #130'
+		RightWing (442 polys, 1326 verts) 'Material #129'
+			RightOuterWing (510 polys, 1530 verts) 'Material #129'
+				RAB3 (76 polys, 228 verts) 'Material #129'
+					RAB4 (20 polys, 60 verts) 'Material #129'
+				RAB2 (76 polys, 228 verts) 'Material #129'
+					RAB1 (20 polys, 60 verts) 'Material #129'
+				RightAileron (88 polys, 264 verts) 'Material #129'
+			RightFlap2 (12 polys, 36 verts) 'Material #129'
+			RightFlap (18 polys, 54 verts) 'Material #129'
+			ROMR (132 polys, 396 verts) 'Desert colour'
+			RIMR (132 polys, 396 verts) 'Desert colour'
+			RMMR (132 polys, 396 verts) 'Desert colour'
+			RightWingTankIn (492 polys, 1476 verts) 'Tank'
+			RightWingTankOut (492 polys, 1476 verts) 'Tank'
+		RMGBDoor (264 polys, 792 verts) 'Material #127'
+		RMGear (158 polys, 474 verts) 'Material #127'
+			RightLStrut (108 polys, 324 verts) 'Material #127'
+				RightWheel (140 polys, 420 verts) 'Material #127'
+			RightUStrut (68 polys, 204 verts) 'Material #127'
+			RightDumper (52 polys, 156 verts) 'Material #127'
+		RMGFDoor (186 polys, 558 verts) 'Material #127'
+		VertTail (928 polys, 2784 verts) 'Material #130'
+			Rudder (104 polys, 312 verts) 'Material #130'
+		ChuteDeploy (12 polys, 36 verts) 'Material #125'
+			Chutes (1016 polys, 3048 verts) 'Material #128'
+		Objekt01 (883 polys, 2649 verts) 'Material #127'
+
+
+Num Nodes: 66
+Total:    (15737 polys, 47211 verts)
+Mesh Max: (2329 polys, 6987 verts)
+
+9 Materials:
+ (  1) Material #127:
+       Fuselage.bmp
+ (  2) Material #130:
+       Tail.bmp
+ (  3) Desert colour:
+       LeftWing.bmp
+ (  4) Tank:
+       TANK_SU25.bmp
+ (  5) Material #126:
+       Nose.bmp
+ (  6) Glass:
+       Transparency enabled
+       Glass.tga
+ (  7) Material #129:
+       Rightwing.bmp
+ (  8) Material #125:
+       tan.bmp
+ (  9) Material #128:
+       Transparency enabled
+       Chute.tga
+
+9 Textures:
+Fuselage.bmp
+Tail.bmp
+LeftWing.bmp
+TANK_SU25.bmp
+Nose.bmp
+Glass.tga
+Rightwing.bmp
+tan.bmp
+Chute.tga
